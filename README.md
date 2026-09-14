@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | SinemaCX | Film | v1 |
 | FilmModu | Film | v2 |
 | KultFilmler | Film + Dizi | v2 |
-| RareFilmm | Film | v2 |
+| RareFilmm | Film | v3 |
 
 ⏸️ = geçici olarak kapalı.
 
