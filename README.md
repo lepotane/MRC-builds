@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FilmModu | Film | v2 |
 | KultFilmler | Film + Dizi | v2 |
 | RareFilmm | Film | v3 |
+| FullHDIzle | Film | v1 |
 
 ⏸️ = geçici olarak kapalı.
 
