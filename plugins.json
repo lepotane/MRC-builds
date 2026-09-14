@@ -221,5 +221,25 @@
         "description": "HD film izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinezy.cs3",
         "name": "Sinezy"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr",
+        "fileHash": "sha256-a07caa8865c075536581301a574a0265496eecfc913af8c04ac4db062ed1f86b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 18241,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "YesilCamTv",
+        "description": "Yesilcam klasikleri arsivi (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/YesilCamTv.cs3",
+        "name": "YesilCamTv"
     }
 ]
