@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | RareFilmm | Film | v3 |
 | FullHDIzle | Film | v3 ⏸️ |
 | HDFilmDelisi | Film | v2 |
-| Sinezy | Film | v1 |
+| Sinezy | Film | v2 |
 
 ⏸️ = geçici olarak kapalı.
 
