@@ -124,10 +124,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
-        "fileHash": "sha256-af407f1bf48e6e8b06fbff7c8bf5d2025865f2e14490d3b802204811bf6370d3",
+        "fileHash": "sha256-310be9bf53ce414f12e18c17a1e9ed464f0a01e3a240d3b7ae3a54d734e3cae8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 13584,
+        "fileSize": 13596,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -136,7 +136,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "RareFilmm",
         "description": "Unutulmaz nadir filmler arsivi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RareFilmm.cs3",
