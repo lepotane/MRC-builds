@@ -204,10 +204,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
-        "fileHash": "sha256-64628e83a89dd8bdca2a9975c61e2832dbe3f037f92a38e6baaf5607db3bdda7",
+        "fileHash": "sha256-77a679b59489422622302e7c264da9078c61f89bf885eca7b0d1a2df6abb3cdd",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 16672,
+        "fileSize": 17542,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -216,7 +216,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Sinezy",
         "description": "HD film izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinezy.cs3",
