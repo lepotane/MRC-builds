@@ -29,17 +29,18 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FilmMakinesi | Film + Dizi | v3 |
 | FullHDFilmizlesene | Film | v8 ⏸️ |
 | JetFilmizle | Film | v2 |
-| SinemaCX | Film | v1 |
+| SinemaCX | Film | v2 |
 | FilmModu | Film | v2 |
 | KultFilmler | Film + Dizi | v2 |
 | RareFilmm | Film | v3 |
 | FullHDIzle | Film | v3 ⏸️ |
-| HDFilmDelisi | Film | v2 |
+| HDFilmDelisi | Film | v3 |
 | Sinezy | Film | v2 |
+| SinemaCX | Film | v2 |
 
 ⏸️ = geçici olarak kapalı.
 
-Liste büyüdükçe burası da güncellenir.
+Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
 
 ## Sorun bildirme
 
