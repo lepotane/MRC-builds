@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | KultFilmler | Film + Dizi | v2 |
 | RareFilmm | Film | v3 |
 | FullHDIzle | Film | v3 ⏸️ |
-| HDFilmDelisi | Film | v3 |
+| HDFilmDelisi | Film | v4 |
 | Sinezy | Film | v2 |
 | SinemaCX | Film | v2 |
 
