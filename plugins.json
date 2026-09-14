@@ -102,6 +102,47 @@
         "name": "JetFilmizle"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
+        "fileHash": "sha256-b5111467ef0e6d8958dd2a3820f2215dc39d0ca92a054e800eeb66824b26cac6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 16250,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "KultFilmler",
+        "description": "Se\u00e7kin k\u00fclt film ve dizi ar\u015fivi (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/KultFilmler.cs3",
+        "name": "KultFilmler"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
+        "fileHash": "sha256-403fc291010245e9570d8ecc7d5acfead7602d77bb9c64de3b9793bcf6cb9208",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 12411,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "RareFilmm",
+        "description": "Unutulmaz nadir filmler arsivi (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RareFilmm.cs3",
+        "name": "RareFilmm"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinema.gg",
         "fileHash": "sha256-d98cf24de2bd5851108d51d99ef6dd8fec8c27fe10bae68f6ab192874de120e0",
         "apiVersion": 1,
