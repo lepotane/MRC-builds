@@ -25,10 +25,10 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 | Eklenti | İçerik | Sürüm |
 |---|---|---|
-| HDFilmCehennemi | Film + Dizi | v5 |
-| FilmMakinesi | Film + Dizi | v1 |
-| FullHDFilmizlesene | Film | v3 |
-| JetFilmizle | Film | v1 |
+| HDFilmCehennemi | Film + Dizi | v6 |
+| FilmMakinesi | Film + Dizi | v2 |
+| FullHDFilmizlesene | Film | v6 |
+| JetFilmizle | Film | v2 |
 
 Liste büyüdükçe burası da güncellenir.
 
