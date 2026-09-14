@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | SinemaCX | Film | v1 |
 | FilmModu | Film | v1 |
 
-⏸️ = geçici olarak kapalı, en son düzeltilecek.
+⏸️ = geçici olarak kapalı.
 
 Liste büyüdükçe burası da güncellenir.
 
