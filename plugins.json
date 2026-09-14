@@ -103,10 +103,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
-        "fileHash": "sha256-8faf45a3c58f5779778f23cb73bae600d6ffbdb8bfd4432fd4667a78ccb8a6fc",
+        "fileHash": "sha256-7557421dca349148c33c55ca7fca6b955cf56c664f04226fd76a2ec204a0b5d6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 14850,
+        "fileSize": 14814,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -115,7 +115,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "HDFilmDelisi",
         "description": "Dublaj ve altyaz\u0131l\u0131 HD filmler (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmDelisi.cs3",
@@ -184,30 +184,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinema.gg",
-        "fileHash": "sha256-9aa65eb88ac59a0ab4aba6fdeec656ba4ce74cecc0ff8c8433b58ed3120fbf5d",
+        "fileHash": "sha256-22e1e71bceeb27ba7315e48da915024ebd88435c3e3c835063bc36847ffc7e12",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 16931,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "MRC"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "SinemaCX",
-        "description": "T\u00fcrk\u00e7e dublaj HD yabanc\u0131 filmler (MRC)",
-        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SinemaCX.cs3",
-        "name": "SinemaCX"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
-        "fileHash": "sha256-77a679b59489422622302e7c264da9078c61f89bf885eca7b0d1a2df6abb3cdd",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 17542,
+        "fileSize": 16950,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -217,6 +197,26 @@
             "Movie"
         ],
         "version": 2,
+        "internalName": "SinemaCX",
+        "description": "T\u00fcrk\u00e7e dublaj HD yabanc\u0131 filmler (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SinemaCX.cs3",
+        "name": "SinemaCX"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
+        "fileHash": "sha256-c487c9c792d6141169f6829cb6932666285c4dfee7276a18c3762f12fc1cc505",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 17629,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
         "internalName": "Sinezy",
         "description": "HD film izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinezy.cs3",
