@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FullHDIzle | Film | v3 ⏸️ |
 | HDFilmDelisi | Film | v5 ⏸️ |
 | Sinezy | Film | v2 |
-| SinemaCX | Film | v2 |
+| YesilCamTv | Film | v1 |
 
 ⏸️ = geçici olarak kapalı.
 
