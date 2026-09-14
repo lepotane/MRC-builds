@@ -21,11 +21,11 @@
         "name": "FilmMakinesi"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdfilmizlesene.now",
-        "fileHash": "sha256-a410f234cdbcf0c76621780a131070ae3b11812c98e9b3b6ce804139ec90efb6",
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one",
+        "fileHash": "sha256-facbb42f40f13c0a9436873b90e859c2b064f230ddd60bd82615635e3df5b832",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 29941,
+        "fileSize": 18559,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -34,7 +34,27 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 7,
+        "version": 1,
+        "internalName": "FilmModu",
+        "description": "1080p film izleme keyfi (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmModu.cs3",
+        "name": "FilmModu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdfilmizlesene.now",
+        "fileHash": "sha256-2637087fb8c3be249bcc767ce46cb3b5c02026461186c7efa04a45045c75656b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 29940,
+        "status": 0,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 8,
         "internalName": "FullHDFilmizlesene",
         "description": "En yeni filmleri Full HD izleyin (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDFilmizlesene.cs3",
@@ -80,5 +100,25 @@
         "description": "Jet h\u0131z\u0131nda film izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/JetFilmizle.cs3",
         "name": "JetFilmizle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinema.gg",
+        "fileHash": "sha256-d98cf24de2bd5851108d51d99ef6dd8fec8c27fe10bae68f6ab192874de120e0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 16903,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SinemaCX",
+        "description": "T\u00fcrk\u00e7e dublaj HD yabanc\u0131 filmler (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SinemaCX.cs3",
+        "name": "SinemaCX"
     }
 ]
