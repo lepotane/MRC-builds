@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmakinesi.to",
-        "fileHash": "sha256-0a38979c718f4d33933c5a91ad560547485822fa619a662e2e870e8c16d6fc83",
+        "fileHash": "sha256-359e09393d0a72cd27519431d6c6fb4208abe7670334247f7ff9638976901a13",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 22936,
+        "fileSize": 23211,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -14,7 +14,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "FilmMakinesi",
         "description": "En iyi 1080p Full HD film sitesi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmMakinesi.cs3",
@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdfilmizlesene.now",
-        "fileHash": "sha256-fd42578e9881dc11c7bcf97ca6ad3154d1e4eacca7c7134116834960da2b91e6",
+        "fileHash": "sha256-083a0670c97ab0ceb45b037acbc6fe5dceb2fb3e59c7f9c43dd82b2562515bf7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 28733,
+        "fileSize": 29108,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -34,7 +34,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "FullHDFilmizlesene",
         "description": "En yeni filmleri Full HD izleyin (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDFilmizlesene.cs3",
@@ -42,10 +42,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
-        "fileHash": "sha256-b00dfc5057adba711ebbddebaf9701b9ed23df610cb8132621f1f059c3410c18",
+        "fileHash": "sha256-cb81113b51e9167c6d4fd4d9749d836a302ebb011daeb5788108d3930bd9c1c3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 30469,
+        "fileSize": 31038,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -55,7 +55,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 HD film izleme sitesi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmCehennemi.cs3",
@@ -63,10 +63,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=jetfilmizle.now",
-        "fileHash": "sha256-4b5dc4b859e03d3503e2be7403f279b3cf44aea70a6e59c7de6dc79e213c31af",
+        "fileHash": "sha256-52cdb2b0f8a8185571cccd909b0da28cf95d34dc2b4a39ff2fe106e7f343c865",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 17839,
+        "fileSize": 18073,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -75,7 +75,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "JetFilmizle",
         "description": "Jet h\u0131z\u0131nda film izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/JetFilmizle.cs3",
