@@ -103,10 +103,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
-        "fileHash": "sha256-b5111467ef0e6d8958dd2a3820f2215dc39d0ca92a054e800eeb66824b26cac6",
+        "fileHash": "sha256-e6657234cb0a2bbd6ffbec39856d0f3d994f5fc3287554af2a3b55d47ab2c8f8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 16250,
+        "fileSize": 19700,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -116,7 +116,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "KultFilmler",
         "description": "Se\u00e7kin k\u00fclt film ve dizi ar\u015fivi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/KultFilmler.cs3",
@@ -124,10 +124,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
-        "fileHash": "sha256-403fc291010245e9570d8ecc7d5acfead7602d77bb9c64de3b9793bcf6cb9208",
+        "fileHash": "sha256-af407f1bf48e6e8b06fbff7c8bf5d2025865f2e14490d3b802204811bf6370d3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 12411,
+        "fileSize": 13584,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -136,7 +136,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "RareFilmm",
         "description": "Unutulmaz nadir filmler arsivi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RareFilmm.cs3",
