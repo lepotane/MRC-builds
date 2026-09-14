@@ -11,19 +11,15 @@ CloudStream için Türkçe film, dizi ve anime eklentileri.
 
 1. [CloudStream](https://github.com/recloudstream/cloudstream/releases/tag/v4.8.0) uygulamasını kurun (4.8.0 ve üzeri).
 2. Uygulamada **Ayarlar → Eklentiler → Depo Ekle** bölümüne girin.
-3. Kısa kod ile eklemek için `Depo ismi` kısmını boş bırakıp `Depo URL'si` kısmına şunu yazın:
-
-```
-!mrc
-```
-
-Kısa kod çalışmazsa doğrudan şu adresi yapıştırın:
+3. `Depo ismi` kısmını boş bırakıp `Depo URL'si` kısmına şu adresi yapıştırın:
 
 ```
 https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 ```
 
 4. Depo eklendikten sonra listeden istediğiniz eklentiyi kurun. Güncellemeler otomatik gelir.
+
+> Not: `!mrc-cs` kısa kodu hazır (`py.md/mrc-cs`) ama şu an sadece beta sürümlerde çalışıyor. Stabil sürüme gelince burası güncellenecek.
 
 ## Eklentiler
 
