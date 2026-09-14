@@ -31,8 +31,8 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | JetFilmizle | Film | v2 |
 | SinemaCX | Film | v1 |
 | FilmModu | Film | v2 |
-| KultFilmler | Film + Dizi | v1 |
-| RareFilmm | Film | v1 |
+| KultFilmler | Film + Dizi | v2 |
+| RareFilmm | Film | v2 |
 
 ⏸️ = geçici olarak kapalı.
 
