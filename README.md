@@ -14,10 +14,10 @@ CloudStream için Türkçe film, dizi ve anime eklentileri.
 3. Kısa kod ile eklemek için `Depo ismi` kısmını boş bırakıp `Depo URL'si` kısmına şunu yazın:
 
 ```
-mrc
+!mrc
 ```
 
-Kısa kod çalışmazsa (bazı ağlarda kısaltma servisi engelli olabiliyor) doğrudan şu adresi yapıştırın:
+Kısa kod çalışmazsa doğrudan şu adresi yapıştırın:
 
 ```
 https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
