@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdfilmizlesene.now",
-        "fileHash": "sha256-c40176172d47c29c46257e7bb20f687a11901362ff6623ddfaf374c7a79eb23b",
+        "fileHash": "sha256-1ba996e5b2df966dfeeeeecc06c36475f904b345855e029fba595658ce6056e1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 22197,
+        "fileSize": 22231,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -34,7 +34,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "FullHDFilmizlesene",
         "description": "En yeni filmleri Full HD izleyin (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDFilmizlesene.cs3",
