@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
-        "fileHash": "sha256-1c71c06399d6d8a19ed8a01ac59ff80811fef4764728b599c7fce6ad80f53b5e",
+        "fileHash": "sha256-b00dfc5057adba711ebbddebaf9701b9ed23df610cb8132621f1f059c3410c18",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 28412,
+        "fileSize": 30469,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -14,7 +14,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 HD film izleme sitesi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmCehennemi.cs3",
