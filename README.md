@@ -34,12 +34,6 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 Liste büyüdükçe burası da güncellenir.
 
-## Teşekkürler
-
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-- [nthdocomo/Kekik-cloudstream](https://github.com/nthdocomo/Kekik-cloudstream)
-- [etumen/cs-kraptor](https://github.com/etumen/cs-kraptor)
-
 ## Sorun bildirme
 
 Bozulan eklenti ya da açılmayan video olursa [buradan bildirin](https://github.com/lepotane/MRC-builds/issues). Film/dizi adını ve ne olduğunu (açılmıyor, altyazı yok gibi) yazmanız yeterli.
