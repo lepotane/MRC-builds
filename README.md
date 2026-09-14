@@ -22,6 +22,7 @@ Eklentiler otomatik güncellenir. Kapatmak istersen: Ayarlar → Güncellemeler 
 | Eklenti | İçerik | Sürüm |
 |---|---|---|
 | HDFilmCehennemi | Film + Dizi | v5 |
+| FilmMakinesi | Film + Dizi | v1 |
 
 Liste zamanla büyüyecek. Takipte kal.
 
