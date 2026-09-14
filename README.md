@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FullHDFilmizlesene | Film | v8 ⏸️ |
 | JetFilmizle | Film | v2 |
 | SinemaCX | Film | v1 |
-| FilmModu | Film | v1 |
+| FilmModu | Film | v2 |
 
 ⏸️ = geçici olarak kapalı.
 
