@@ -103,10 +103,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
-        "fileHash": "sha256-7557421dca349148c33c55ca7fca6b955cf56c664f04226fd76a2ec204a0b5d6",
+        "fileHash": "sha256-cf6468830d14abf5568c25d869bbf8d7e0482b2bc294784901457072603fb1f7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 14814,
+        "fileSize": 16248,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -115,7 +115,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "HDFilmDelisi",
         "description": "Dublaj ve altyaz\u0131l\u0131 HD filmler (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmDelisi.cs3",
