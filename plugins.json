@@ -1,5 +1,26 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmakinesi.to",
+        "fileHash": "sha256-0a38979c718f4d33933c5a91ad560547485822fa619a662e2e870e8c16d6fc83",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 22936,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "FilmMakinesi",
+        "description": "En iyi 1080p Full HD film sitesi (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmMakinesi.cs3",
+        "name": "FilmMakinesi"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
         "fileHash": "sha256-b00dfc5057adba711ebbddebaf9701b9ed23df610cb8132621f1f059c3410c18",
         "apiVersion": 1,
