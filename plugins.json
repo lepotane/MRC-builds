@@ -102,6 +102,26 @@
         "name": "HDFilmCehennemi"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
+        "fileHash": "sha256-5916c977bc636c1bb6445b2633f27e80e39305bedd5ba56419099fdc5928f024",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 14000,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDFilmDelisi",
+        "description": "Dublaj ve altyaz\u0131l\u0131 HD filmler (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmDelisi.cs3",
+        "name": "HDFilmDelisi"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=jetfilmizle.now",
         "fileHash": "sha256-52cdb2b0f8a8185571cccd909b0da28cf95d34dc2b4a39ff2fe106e7f343c865",
         "apiVersion": 1,
@@ -164,10 +184,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinema.gg",
-        "fileHash": "sha256-d98cf24de2bd5851108d51d99ef6dd8fec8c27fe10bae68f6ab192874de120e0",
+        "fileHash": "sha256-9aa65eb88ac59a0ab4aba6fdeec656ba4ce74cecc0ff8c8433b58ed3120fbf5d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 16903,
+        "fileSize": 16931,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -181,5 +201,25 @@
         "description": "T\u00fcrk\u00e7e dublaj HD yabanc\u0131 filmler (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SinemaCX.cs3",
         "name": "SinemaCX"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
+        "fileHash": "sha256-64628e83a89dd8bdca2a9975c61e2832dbe3f037f92a38e6baaf5607db3bdda7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 16672,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Sinezy",
+        "description": "HD film izleme keyfi (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinezy.cs3",
+        "name": "Sinezy"
     }
 ]
