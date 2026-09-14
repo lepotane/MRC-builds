@@ -62,10 +62,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdizle.one",
-        "fileHash": "sha256-0612c8f5831f328f4dedf4943f54f93e5272bd645062a4746adb6d599e412b24",
+        "fileHash": "sha256-c046a31222aaf0da27366b82a661c9275cb3499baef05210be2d9bab6874cccc",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 16016,
+        "fileSize": 18507,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -74,7 +74,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "FullHDIzle",
         "description": "Full HD film izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDIzle.cs3",
