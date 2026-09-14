@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one",
-        "fileHash": "sha256-facbb42f40f13c0a9436873b90e859c2b064f230ddd60bd82615635e3df5b832",
+        "fileHash": "sha256-f7e20b54bae46cb69577fbe38ebc47c21d5125ec180e880234631e26b95101ad",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 18559,
+        "fileSize": 18858,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -34,7 +34,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "FilmModu",
         "description": "1080p film izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmModu.cs3",
