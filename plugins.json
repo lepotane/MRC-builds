@@ -1,5 +1,25 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac",
+        "fileHash": "sha256-e4c577ada78bef29056723911c2a5bab5c6b3043b6be128bf5378282d8f5baba",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 18400,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MRC"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "DiziWatch",
+        "description": "Yabanc\u0131 dizi izleme keyfi (MRC)",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziWatch.cs3",
+        "name": "DiziWatch"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmakinesi.to",
         "fileHash": "sha256-7e87d1ae103d7eeabdd7bb10d8e2b5379f287033cf0de5f275a74ed9e4c594cf",
         "apiVersion": 1,
