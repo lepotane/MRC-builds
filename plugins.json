@@ -1,5 +1,109 @@
 [
     {
+        "iconUrl": "https://www.ddizi.im/favicon.ico",
+        "fileHash": "sha256-a382b09c409c956328a9fdf0c59955187e9d38acd4f6b24c7d272dd2ad5c947c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 20120,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "DDizi",
+        "description": "DDizi.im i\u00e7in Cloudstream eklentisi.",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DDizi.cs3",
+        "name": "DDizi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
+        "fileHash": "sha256-80730a3f0bbf9db53f9996f7c356c27bf065e9c627ae56c8e0567b569f592711",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 33211,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DiziBal",
+        "description": "En pop\u00fcler yabanc\u0131 dizileri yeni b\u00f6l\u00fcmleriyle takip edin. HBO, Netflix, Apple TV+ yap\u0131mlar\u0131 T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak dizibaL'da!",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBal.cs3",
+        "name": "DiziBal"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
+        "fileHash": "sha256-3ca31d0d65232a0acc02b7cecd6b9e2d9660698a6ec25300b9944961427f1c7a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 33223,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DiziBol",
+        "description": "En pop\u00fcler yabanc\u0131 dizileri yeni b\u00f6l\u00fcmleriyle takip edin. HBO, Netflix, Apple TV+ yap\u0131mlar\u0131 T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak dizibaL'da!",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBol.cs3",
+        "name": "DiziBol"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
+        "fileHash": "sha256-36d2dbe2ec7bb5e99406ecebdb22b8da4c12d88900d113c45815dfbfdd2ae078",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 25181,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DiziBox",
+        "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site..",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBox.cs3",
+        "name": "DiziBox"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
+        "fileHash": "sha256-569f9c970420e36edeec5a528cd22205615983011093d3e5fb9ea22ca9c0c296",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 15216,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "DiziGom",
+        "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 yabanc\u0131 dizi izle, T\u00fcm yabanc\u0131, kore, netflix dizilerin yeni ve eski sezonlar\u0131n\u0131 orijinal dilinde dizigom1 alt yaz\u0131l\u0131 film izleyebilir, sadece t\u00fcrk\u00e7e altyaz\u0131l\u0131 en iyi yabanc\u0131 diziler ve filmler hakk\u0131nda yorum yapabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziGom.cs3",
+        "name": "DiziGom"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "fileHash": "sha256-39a8c33baeffa4ce78730a4b5fccf34c78e5a128def3152dbdab10578da4aa9f",
         "apiVersion": 1,
@@ -18,6 +122,27 @@
         "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziKorea.cs3",
         "name": "DiziKorea"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
+        "fileHash": "sha256-c2dfab9ba884b502e660c65015ab3f26a1ea0d897c52d80ee1839d740ba67dba",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 17101,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "DiziLife",
+        "description": "Dizi.life T\u00fcrk\u00e7e dizi/film izleme platformu \u2014 yabanc\u0131 diziler, yeni filmler, son b\u00f6l\u00fcmler.",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziLife.cs3",
+        "name": "DiziLife"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
@@ -61,6 +186,27 @@
         "name": "DiziMag"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
+        "fileHash": "sha256-94d2f4588287f4db05d73a5f96d347a14f4f3d1f6fbe10990402dd372f15754e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 26623,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "DiziMom",
+        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziMom.cs3",
+        "name": "DiziMom"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1541.com&sz=%size%",
         "fileHash": "sha256-777d8facbc2048bf36679eab86a9f38647e0ed08e3c9b658839357c38f7931a4",
         "apiVersion": 1,
@@ -101,6 +247,66 @@
         "description": "Yabanc\u0131 dizi izleme keyfi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziWatch.cs3",
         "name": "DiziWatch"
+    },
+    {
+        "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+        "fileHash": "sha256-ddb9dbb7cc6231f68d07f564d8d4c2c7b074e3de608de0815b28f3a369e876b3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 17183,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 25,
+        "internalName": "DiziYou",
+        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYou.cs3",
+        "name": "DiziYou"
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
+        "fileHash": "sha256-632dad0dfbc936746d5d7496586e95a5fa978d366459e6a3918b266695a18e81",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 15711,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "ByAyzen"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 2,
+        "internalName": "DocumentaryArea",
+        "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DocumentaryArea.cs3",
+        "name": "DocumentaryArea"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
+        "fileHash": "sha256-567c9a6713f2f515d1848a4409f4770ae747cf28d923eca11b9797b2c4983737",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 33240,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "UmayTrade"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "DramaDizilerim",
+        "description": "En pop\u00fcler NetShort, DramaBox, ReelShort ve FreeReels k\u0131sa dizilerini T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle Full HD kalitede \u00fccretsiz ve reklams\u0131z izleyin.",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DramaDizilerim.cs3",
+        "name": "DramaDizilerim"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=%size%",
@@ -287,6 +493,27 @@
         "name": "KultFilmler"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%",
+        "fileHash": "sha256-e8a3e5aea0b027b3f746cadb99a667f2162b26729ea8273a6755b72337beaeae",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 26946,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "blackhope01"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "LoveFilm",
+        "description": "Full HD Film izle - T\u00fcrk\u00e7e Dublaj Altyaz\u0131l\u0131 Film izleme sitesi olarak sizlere yabanc\u0131 yerli filmleri y\u00fcksek kalitede sunmakday\u0131z. Kaliteli film izle sitesi",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/LoveFilm.cs3",
+        "name": "LoveFilm"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
         "fileHash": "sha256-310be9bf53ce414f12e18c17a1e9ed464f0a01e3a240d3b7ae3a54d734e3cae8",
         "apiVersion": 1,
@@ -347,6 +574,27 @@
         "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SetFilmIzle.cs3",
         "name": "SetFilmIzle"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
+        "fileHash": "sha256-8b4b2af82059615de91ea6cd1a9a0534a83d5e7f55629b22e35935c0adf1872f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+        "fileSize": 21254,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 14,
+        "internalName": "Sinefy",
+        "description": "Yabanc\u0131 film izle olarak vizyondaki en yeni yabanc\u0131 filmleri t\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 olarak en h\u0131zl\u0131 \u015fekilde full hd olarak sizlere sunuyoruz.",
+        "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinefy.cs3",
+        "name": "Sinefy"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinema.gg",
