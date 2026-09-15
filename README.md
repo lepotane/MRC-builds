@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | Webteizle | Film | v2 | Bakımda |
 | YabanciDizi | Dizi | v2 | Bakımda |
 | DiziGom | Dizi | v2 | Bakımda |
-| DiziBox | Dizi | v2 | Bakımda |
+| DiziBox | Dizi | v3 | Çalışıyor |
 | DiziMom | Dizi | v1 | Çalışıyor |
 | DiziYou | Dizi | v2 | Bakımda |
 | DiziLife | Dizi | v1 | Çalışıyor |
