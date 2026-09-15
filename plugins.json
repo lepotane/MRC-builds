@@ -244,10 +244,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr",
-        "fileHash": "sha256-30773aaf4557f988cc00dde4f78881db9ad0023384b14d0ce42e7e7d681e9e91",
+        "fileHash": "sha256-e0b90285078780f0cf0d18098065d3d11c2c0c9719cdf375f0b09e3159ba75a8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 18941,
+        "fileSize": 18942,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -256,7 +256,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "YesilCamTv",
         "description": "Yesilcam klasikleri arsivi (MRC)",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/YesilCamTv.cs3",
