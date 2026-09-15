@@ -29,37 +29,37 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 |---|---|---|
 | HDFilmCehennemi | Film + Dizi | v6 |
 | FilmMakinesi | Film + Dizi | v3 |
-| FullHDFilmizlesene | Film | v1 |
+| FullHDFilmizlesene | Film | v2 |
 | JetFilmizle | Film | v2 |
 | SinemaCX | Film | v2 |
 | FilmModu | Film | v2 |
 | KultFilmler | Film + Dizi | v2 |
 | RareFilmm | Film | v3 |
-| FullHDIzle | Film | v3 |
-| HDFilmDelisi | Film | v5 |
+| FullHDIzle | Film | v4 |
+| HDFilmDelisi | Film | v6 |
 | Sinezy | Film | v3 |
 | YesilCamTv | Film | v2 |
-| DiziWatch | Dizi | v2 |
-| Dizilla | Dizi | v1 |
-| DiziPal | Dizi | v1 |
-| DiziMag | Dizi | v1 |
+| DiziWatch | Dizi | v3 |
+| Dizilla | Dizi | v2 |
+| DiziPal | Dizi | v2 |
+| DiziMag | Dizi | v2 |
 | DiziKorea | Kore Dizisi | v1 |
 | FilmEkseni | Film | v1 |
-| SelcukFlix | Film + Dizi | v2 |
-| SetFilmIzle | Film + Dizi | v1 |
-| TvDiziler | Dizi | v1 |
-| WebdramaTurkey2 | Web Drama | v1 |
-| Webteizle | Film | v1 |
-| YabanciDizi | Dizi | v1 |
-| DiziGom | Dizi | v1 |
-| DiziBox | Dizi | v1 |
+| SelcukFlix | Film + Dizi | v3 |
+| SetFilmIzle | Film + Dizi | v2 |
+| TvDiziler | Dizi | v2 |
+| WebdramaTurkey2 | Web Drama | v2 |
+| Webteizle | Film | v2 |
+| YabanciDizi | Dizi | v2 |
+| DiziGom | Dizi | v2 |
+| DiziBox | Dizi | v2 |
 | DiziMom | Dizi | v1 |
-| DiziYou | Dizi | v1 |
+| DiziYou | Dizi | v2 |
 | DiziLife | Dizi | v1 |
 | DiziBal | Dizi | v1 |
 | DiziBol | Dizi | v1 |
 | DDizi | Yerli Dizi | v4 |
-| LoveFilm | Film + Dizi | v1 |
+| LoveFilm | Film + Dizi | v2 |
 | Sinefy | Film + Dizi | v1 |
 | DocumentaryArea | Belgesel | v1 |
 | DramaDizilerim | Dizi | v1 |
@@ -79,10 +79,10 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | Streamed | Canlı | v1 |
 | Supercartoons | Çizgi | v1 |
 | SineWix | Karma | v1 |
-| FilmIzyon | Film | v1 |
-| Filmzal | Film | v1 |
-| DiziPalOrijinal | Dizi | v1 |
-| DiziYo | Dizi | v1 |
+| FilmIzyon | Film | v2 |
+| Filmzal | Film | v2 |
+| DiziPalOrijinal | Dizi | v2 |
+| DiziYo | Dizi | v2 |
 | YoTurkish | Yerli | v1 |
 
 Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
