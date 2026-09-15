@@ -49,6 +49,18 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | WebdramaTurkey2 | Web Drama | v1 |
 | Webteizle | Film | v2 |
 | YabanciDizi | Dizi | v9 |
+| DiziGom | Dizi | v9 |
+| DiziBox | Dizi | v1 |
+| DiziMom | Dizi | v3 |
+| DiziYou | Dizi | v25 |
+| DiziLife | Dizi | v2 |
+| DiziBal | Dizi | v1 |
+| DiziBol | Dizi | v1 |
+| DDizi | Yerli Dizi | v1 |
+| LoveFilm | Film + Dizi | v1 |
+| Sinefy | Film + Dizi | v14 |
+| DocumentaryArea | Belgesel | v2 |
+| DramaDizilerim | Dizi | v3 |
 
 ⏸️ = geçici olarak kapalı.
 
