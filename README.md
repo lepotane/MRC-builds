@@ -37,30 +37,51 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | HDFilmDelisi | Film | v5 ⏸️ |
 | Sinezy | Film | v3 |
 | YesilCamTv | Film | v2 |
-| DiziWatch | Dizi | v3 |
-| Dizilla | Dizi | v25 |
-| DiziPal | Dizi | v41 |
-| DiziMag | Dizi | v18 |
-| DiziKorea | Kore Dizisi | v41 |
+| DiziWatch | Dizi | v2 |
+| Dizilla | Dizi | v1 |
+| DiziPal | Dizi | v1 |
+| DiziMag | Dizi | v1 |
+| DiziKorea | Kore Dizisi | v1 |
 | FilmEkseni | Film | v1 |
 | SelcukFlix | Film + Dizi | v1 |
-| SetFilmIzle | Film + Dizi | v30 |
+| SetFilmIzle | Film + Dizi | v1 |
 | TvDiziler | Dizi | v1 |
 | WebdramaTurkey2 | Web Drama | v1 |
-| Webteizle | Film | v2 |
-| YabanciDizi | Dizi | v9 |
-| DiziGom | Dizi | v9 |
+| Webteizle | Film | v1 |
+| YabanciDizi | Dizi | v1 |
+| DiziGom | Dizi | v1 |
 | DiziBox | Dizi | v1 |
-| DiziMom | Dizi | v3 |
-| DiziYou | Dizi | v25 |
-| DiziLife | Dizi | v2 |
+| DiziMom | Dizi | v1 |
+| DiziYou | Dizi | v1 |
+| DiziLife | Dizi | v1 |
 | DiziBal | Dizi | v1 |
 | DiziBol | Dizi | v1 |
 | DDizi | Yerli Dizi | v1 |
 | LoveFilm | Film + Dizi | v1 |
-| Sinefy | Film + Dizi | v14 |
-| DocumentaryArea | Belgesel | v2 |
-| DramaDizilerim | Dizi | v3 |
+| Sinefy | Film + Dizi | v1 |
+| DocumentaryArea | Belgesel | v1 |
+| DramaDizilerim | Dizi | v1 |
+| AnimeAV | Anime | v1 |
+| AnimeWorld | Anime | v1 |
+| AnimeYTX | Anime | v1 |
+| AnimeciX | Anime | v1 |
+| Animejara | Anime | v1 |
+| AsyaAnimeleri | Anime | v1 |
+| AsyaWatch | Asya Dizisi | v1 |
+| BelgeselX | Belgesel | v1 |
+| BirAsyaDizi | Asya Dizisi | v1 |
+| CizgiMax | Çizgi Film | v1 |
+| TRasyalog | Asya Dizisi | v1 |
+| TurkAnime | Anime | v1 |
+| Watch2Movies | Film | v1 |
+| Streamed | Canlı | v1 |
+| Supercartoons | Çizgi | v1 |
+| SineWix | Karma | v1 |
+| FilmIzyon | Film | v1 |
+| Filmzal | Film | v1 |
+| DiziPalOrijinal | Dizi | v1 |
+| DiziYo | Dizi | v1 |
+| YoTurkish | Yerli | v1 |
 
 ⏸️ = geçici olarak kapalı.
 
