@@ -655,12 +655,12 @@
         "name": "Filmzal"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdfilmizlesene.now",
-        "fileHash": "sha256-2637087fb8c3be249bcc767ce46cb3b5c02026461186c7efa04a45045c75656b",
+        "iconUrl": "https://www.fullhdfilmizlesene.now/favicon.ico",
+        "fileHash": "sha256-88447ae6bac20e1aa0386c9219d6c778ea9652c540b4cb7df04daeb6e1d6c3c9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 29940,
-        "status": 0,
+        "fileSize": 21643,
+        "status": 1,
         "language": "tr",
         "authors": [
             "MRC"
@@ -668,9 +668,9 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 8,
+        "version": 1,
         "internalName": "FullHDFilmizlesene",
-        "description": "En yeni filmleri Full HD izleyin (MRC)",
+        "description": "FullHDFilmizlesene Turkce Film Saglayicisi",
         "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
@@ -680,7 +680,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
         "fileSize": 18507,
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "MRC"
@@ -721,7 +721,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
         "fileSize": 16248,
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "MRC"
