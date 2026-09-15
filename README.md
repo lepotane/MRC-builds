@@ -29,14 +29,14 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 |---|---|---|
 | HDFilmCehennemi | Film + Dizi | v6 |
 | FilmMakinesi | Film + Dizi | v3 |
-| FullHDFilmizlesene | Film | v8 ⏸️ |
+| FullHDFilmizlesene | Film | v1 |
 | JetFilmizle | Film | v2 |
 | SinemaCX | Film | v2 |
 | FilmModu | Film | v2 |
 | KultFilmler | Film + Dizi | v2 |
 | RareFilmm | Film | v3 |
-| FullHDIzle | Film | v3 ⏸️ |
-| HDFilmDelisi | Film | v5 ⏸️ |
+| FullHDIzle | Film | v3 |
+| HDFilmDelisi | Film | v5 |
 | Sinezy | Film | v3 |
 | YesilCamTv | Film | v2 |
 | DiziWatch | Dizi | v2 |
@@ -84,8 +84,6 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziPalOrijinal | Dizi | v1 |
 | DiziYo | Dizi | v1 |
 | YoTurkish | Yerli | v1 |
-
-⏸️ = geçici olarak kapalı.
 
 Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
 
