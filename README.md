@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziMag | Dizi | v1 |
 | DiziKorea | Kore Dizisi | v1 |
 | FilmEkseni | Film | v1 |
-| SelcukFlix | Film + Dizi | v1 |
+| SelcukFlix | Film + Dizi | v2 |
 | SetFilmIzle | Film + Dizi | v1 |
 | TvDiziler | Dizi | v1 |
 | WebdramaTurkey2 | Web Drama | v1 |
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | BelgeselX | Belgesel | v1 |
 | BirAsyaDizi | Asya Dizisi | v1 |
 | CizgiMax | Çizgi Film | v1 |
-| TRasyalog | Asya Dizisi | v1 |
+| TRasyalog | Asya Dizisi | v2 |
 | TurkAnime | Anime | v1 |
 | Watch2Movies | Film | v1 |
 | Streamed | Canlı | v1 |
