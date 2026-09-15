@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac",
-        "fileHash": "sha256-53e29f04f98698cf25d5b56528b519236bb8adf65d8075ebe76e649172f41030",
+        "fileHash": "sha256-393181516cdfea1e755ba34eb07c63a32128493dfde9d05a83af94d804119b4a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-        "fileSize": 20800,
+        "fileSize": 20865,
         "status": 1,
         "language": "tr",
         "authors": [
