@@ -35,9 +35,20 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | RareFilmm | Film | v3 |
 | FullHDIzle | Film | v3 ⏸️ |
 | HDFilmDelisi | Film | v5 ⏸️ |
-| Sinezy | Film | v2 |
+| Sinezy | Film | v3 |
 | YesilCamTv | Film | v2 |
 | DiziWatch | Dizi | v3 |
+| Dizilla | Dizi | v25 |
+| DiziPal | Dizi | v41 |
+| DiziMag | Dizi | v18 |
+| DiziKorea | Kore Dizisi | v41 |
+| FilmEkseni | Film | v1 |
+| SelcukFlix | Film + Dizi | v1 |
+| SetFilmIzle | Film + Dizi | v30 |
+| TvDiziler | Dizi | v1 |
+| WebdramaTurkey2 | Web Drama | v1 |
+| Webteizle | Film | v2 |
+| YabanciDizi | Dizi | v9 |
 
 ⏸️ = geçici olarak kapalı.
 
