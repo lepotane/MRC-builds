@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziLife | Dizi | v1 |
 | DiziBal | Dizi | v1 |
 | DiziBol | Dizi | v1 |
-| DDizi | Yerli Dizi | v2 |
+| DDizi | Yerli Dizi | v3 |
 | LoveFilm | Film + Dizi | v1 |
 | Sinefy | Film + Dizi | v1 |
 | DocumentaryArea | Belgesel | v1 |

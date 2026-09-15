@@ -205,10 +205,10 @@
   },
   {
     "iconUrl": "https://www.ddizi.im/favicon.ico",
-    "fileHash": "sha256-92828496d38a326df1fe46a7ec3950c4296890c237f6febe962e3d04c8d16e68",
+    "fileHash": "sha256-e9f8d49977232561ebab8006873a7934b339ac3f87b434d17f42fa298a8f698c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 23515,
+    "fileSize": 26449,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -217,7 +217,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "DDizi",
     "description": "DDizi.im için Cloudstream eklentisi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DDizi.cs3",
