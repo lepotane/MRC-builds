@@ -25,65 +25,65 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 ## Eklentiler
 
-| Eklenti | İçerik | Sürüm |
-|---|---|---|
-| HDFilmCehennemi | Film + Dizi | v6 |
-| FilmMakinesi | Film + Dizi | v3 |
-| FullHDFilmizlesene | Film | v2 |
-| JetFilmizle | Film | v2 |
-| SinemaCX | Film | v2 |
-| FilmModu | Film | v2 |
-| KultFilmler | Film + Dizi | v2 |
-| RareFilmm | Film | v3 |
-| FullHDIzle | Film | v4 |
-| HDFilmDelisi | Film | v6 |
-| Sinezy | Film | v3 |
-| YesilCamTv | Film | v2 |
-| DiziWatch | Dizi | v3 |
-| Dizilla | Dizi | v2 |
-| DiziPal | Dizi | v2 |
-| DiziMag | Dizi | v2 |
-| DiziKorea | Kore Dizisi | v1 |
-| FilmEkseni | Film | v1 |
-| SelcukFlix | Film + Dizi | v3 |
-| SetFilmIzle | Film + Dizi | v2 |
-| TvDiziler | Dizi | v2 |
-| WebdramaTurkey2 | Web Drama | v2 |
-| Webteizle | Film | v2 |
-| YabanciDizi | Dizi | v2 |
-| DiziGom | Dizi | v2 |
-| DiziBox | Dizi | v2 |
-| DiziMom | Dizi | v1 |
-| DiziYou | Dizi | v2 |
-| DiziLife | Dizi | v1 |
-| DiziBal | Dizi | v1 |
-| DiziBol | Dizi | v1 |
-| DDizi | Yerli Dizi | v4 |
-| LoveFilm | Film + Dizi | v2 |
-| Sinefy | Film + Dizi | v1 |
-| DocumentaryArea | Belgesel | v1 |
-| DramaDizilerim | Dizi | v1 |
-| AnimeAV | Anime | v1 |
-| AnimeWorld | Anime | v1 |
-| AnimeYTX | Anime | v1 |
-| AnimeciX | Anime | v1 |
-| Animejara | Anime | v1 |
-| AsyaAnimeleri | Anime | v1 |
-| AsyaWatch | Asya Dizisi | v1 |
-| BelgeselX | Belgesel | v1 |
-| BirAsyaDizi | Asya Dizisi | v1 |
-| CizgiMax | Çizgi Film | v1 |
-| TRasyalog | Asya Dizisi | v3 |
-| TurkAnime | Anime | v1 |
-| Watch2Movies | Film | v1 |
-| Streamed | Canlı | v1 |
-| Supercartoons | Çizgi | v1 |
-| SineWix | Karma | v1 |
-| FilmIzyon | Film | v2 |
-| Filmzal | Film | v2 |
-| DiziPalOrijinal | Dizi | v2 |
-| DiziYo | Dizi | v2 |
-| YoTurkish | Yerli | v1 |
+| Eklenti | İçerik | Sürüm | Durum |
+|---|---|---|---|
+| HDFilmCehennemi | Film + Dizi | v6 | Çalışıyor |
+| FilmMakinesi | Film + Dizi | v3 | Çalışıyor |
+| FullHDFilmizlesene | Film | v2 | Bakımda |
+| JetFilmizle | Film | v2 | Çalışıyor |
+| SinemaCX | Film | v2 | Çalışıyor |
+| FilmModu | Film | v2 | Çalışıyor |
+| KultFilmler | Film + Dizi | v2 | Çalışıyor |
+| RareFilmm | Film | v3 | Çalışıyor |
+| FullHDIzle | Film | v4 | Bakımda |
+| HDFilmDelisi | Film | v6 | Bakımda |
+| Sinezy | Film | v3 | Çalışıyor |
+| YesilCamTv | Film | v2 | Çalışıyor |
+| DiziWatch | Dizi | v3 | Bakımda |
+| Dizilla | Dizi | v2 | Bakımda |
+| DiziPal | Dizi | v2 | Bakımda |
+| DiziMag | Dizi | v2 | Bakımda |
+| DiziKorea | Kore Dizisi | v1 | Çalışıyor |
+| FilmEkseni | Film | v1 | Çalışıyor |
+| SelcukFlix | Film + Dizi | v3 | Bakımda |
+| SetFilmIzle | Film + Dizi | v2 | Bakımda |
+| TvDiziler | Dizi | v2 | Bakımda |
+| WebdramaTurkey2 | Web Drama | v2 | Bakımda |
+| Webteizle | Film | v2 | Bakımda |
+| YabanciDizi | Dizi | v2 | Bakımda |
+| DiziGom | Dizi | v2 | Bakımda |
+| DiziBox | Dizi | v2 | Bakımda |
+| DiziMom | Dizi | v1 | Çalışıyor |
+| DiziYou | Dizi | v2 | Bakımda |
+| DiziLife | Dizi | v1 | Çalışıyor |
+| DiziBal | Dizi | v1 | Çalışıyor |
+| DiziBol | Dizi | v1 | Çalışıyor |
+| DDizi | Yerli Dizi | v4 | Çalışıyor |
+| LoveFilm | Film + Dizi | v2 | Bakımda |
+| Sinefy | Film + Dizi | v1 | Çalışıyor |
+| DocumentaryArea | Belgesel | v1 | Çalışıyor |
+| DramaDizilerim | Dizi | v1 | Çalışıyor |
+| AnimeAV | Anime | v1 | Çalışıyor |
+| AnimeWorld | Anime | v1 | Çalışıyor |
+| AnimeYTX | Anime | v1 | Çalışıyor |
+| AnimeciX | Anime | v1 | Çalışıyor |
+| Animejara | Anime | v1 | Çalışıyor |
+| AsyaAnimeleri | Anime | v1 | Çalışıyor |
+| AsyaWatch | Asya Dizisi | v1 | Çalışıyor |
+| BelgeselX | Belgesel | v1 | Çalışıyor |
+| BirAsyaDizi | Asya Dizisi | v1 | Çalışıyor |
+| CizgiMax | Çizgi Film | v1 | Çalışıyor |
+| TRasyalog | Asya Dizisi | v3 | Çalışıyor |
+| TurkAnime | Anime | v1 | Çalışıyor |
+| Watch2Movies | Film | v1 | Çalışıyor |
+| Streamed | Canlı | v1 | Çalışıyor |
+| Supercartoons | Çizgi | v1 | Çalışıyor |
+| SineWix | Karma | v1 | Çalışıyor |
+| FilmIzyon | Film | v2 | Bakımda |
+| Filmzal | Film | v2 | Bakımda |
+| DiziPalOrijinal | Dizi | v2 | Bakımda |
+| DiziYo | Dizi | v2 | Bakımda |
+| YoTurkish | Yerli | v1 | Çalışıyor |
 
 Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
 
