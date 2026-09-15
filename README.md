@@ -20,6 +20,8 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 4. Depo eklendikten sonra listeden istediğiniz eklentiyi kurun. Güncellemeler otomatik gelir.
 
 > Not: `!mrc-cs` kısa kodu hazır (`py.md/mrc-cs`) ama şu an sadece beta sürümlerde çalışıyor. Stabil sürüme gelince burası güncellenecek.
+>
+> Alternatif kısa kod: `mrc-cs` (Cutt.ly yerine TinyURL üzerinden) — stabil sürümlerde de çalışır: `https://tinyurl.com/mrc-cs`
 
 ## Eklentiler
 
