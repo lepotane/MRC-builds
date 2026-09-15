@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | HDFilmDelisi | Film | v5 ⏸️ |
 | Sinezy | Film | v2 |
 | YesilCamTv | Film | v2 |
-| DiziWatch | Dizi | v2 |
+| DiziWatch | Dizi | v3 |
 
 ⏸️ = geçici olarak kapalı.
 
