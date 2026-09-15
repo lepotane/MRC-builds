@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | BelgeselX | Belgesel | v1 |
 | BirAsyaDizi | Asya Dizisi | v1 |
 | CizgiMax | Çizgi Film | v1 |
-| TRasyalog | Asya Dizisi | v2 |
+| TRasyalog | Asya Dizisi | v3 |
 | TurkAnime | Anime | v1 |
 | Watch2Movies | Film | v1 |
 | Streamed | Canlı | v1 |

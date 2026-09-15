@@ -984,10 +984,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
-    "fileHash": "sha256-474feae1018404d5dcc81c294fca86f23c1fe57ded6825937faaf987af74bfaf",
+    "fileHash": "sha256-9ed9346cc782d8e4d623459535158d42b4e5726a94974bbeca48163efecc4191",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC",
-    "fileSize": 21981,
+    "fileSize": 24477,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -996,7 +996,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "TRasyalog",
     "description": "TRasyalog izleme sitesi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/TRasyalog.cs3",
