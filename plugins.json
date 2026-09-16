@@ -494,10 +494,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
-    "fileHash": "sha256-d7aa66579ab96cd0987e1c7e327177fc6006bfa447a7a6f7d46e64a4e3b2cd3f",
+    "fileHash": "sha256-55219474442da64df0b85be420d40ebde1bc46fca16739d2a37d662bce1a80cf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 31180,
+    "fileSize": 33524,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -507,7 +507,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziYo",
     "description": "Yeni film, dizi, anime bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYo.cs3",
@@ -515,10 +515,10 @@
   },
   {
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-    "fileHash": "sha256-cb3295507f5a5a68052f3db280bcfbd32077086579e80cc5c017974331cd9011",
+    "fileHash": "sha256-8b5da540b6710e256e4fce772119fd4636ac3d58ef5040ec4413711319a7b51c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 14436,
+    "fileSize": 17464,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -527,7 +527,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziYou",
     "description": "Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYou.cs3",

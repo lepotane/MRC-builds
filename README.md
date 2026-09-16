@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziGom | Dizi | v3 | Bakımda |
 | DiziBox | Dizi | v5 | Çalışıyor |
 | DiziMom | Dizi | v1 | Çalışıyor |
-| DiziYou | Dizi | v4 | Çalışıyor |
+| DiziYou | Dizi | v5 | Çalışıyor |
 | DiziLife | Dizi | v1 | Çalışıyor |
 | DiziBal | Dizi | v1 | Çalışıyor |
 | DiziBol | Dizi | v1 | Çalışıyor |
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FilmIzyon | Film | v2 | Bakımda |
 | Filmzal | Film | v2 | Bakımda |
 | DiziPalOrijinal | Dizi | v4 | Çalışıyor |
-| DiziYo | Dizi | v4 | Çalışıyor |
+| DiziYo | Dizi | v5 | Çalışıyor |
 | YoTurkish | Yerli | v1 | Çalışıyor |
 | InatBoxBC | Film + Dizi + Canli | v1 | Çalışıyor |
 | Atv | Dizi + Canli | v2 | Bakımda |
