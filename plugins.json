@@ -536,10 +536,10 @@
   },
   {
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-    "fileHash": "sha256-515a5df3b2fecb7e767eacfa70180c58630c2fdf716c0fbc3c885f99dd64871a",
+    "fileHash": "sha256-cb3295507f5a5a68052f3db280bcfbd32077086579e80cc5c017974331cd9011",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 17180,
+    "fileSize": 14436,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -548,7 +548,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "DiziYou",
     "description": "Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYou.cs3",

@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziGom | Dizi | v3 | Bakımda |
 | DiziBox | Dizi | v5 | Çalışıyor |
 | DiziMom | Dizi | v1 | Çalışıyor |
-| DiziYou | Dizi | v3 | Çalışıyor |
+| DiziYou | Dizi | v4 | Çalışıyor |
 | DiziLife | Dizi | v1 | Çalışıyor |
 | DiziBal | Dizi | v1 | Çalışıyor |
 | DiziBol | Dizi | v1 | Çalışıyor |
