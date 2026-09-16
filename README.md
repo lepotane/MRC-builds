@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | YesilCamTv | Film | v2 | Çalışıyor |
 | DiziWatch | Dizi | v3 | Bakımda |
 | Dizilla | Dizi | v2 | Bakımda |
-| DiziPal | Dizi | v2 | Bakımda |
+| DiziPal | Dizi | v3 | Çalışıyor |
 | DiziMag | Dizi | v2 | Bakımda |
 | DiziKorea | Kore Dizisi | v1 | Çalışıyor |
 | FilmEkseni | Film | v1 | Çalışıyor |
@@ -81,9 +81,10 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | SineWix | Karma | v1 | Çalışıyor |
 | FilmIzyon | Film | v2 | Bakımda |
 | Filmzal | Film | v2 | Bakımda |
-| DiziPalOrijinal | Dizi | v2 | Bakımda |
+| DiziPalOrijinal | Dizi | v3 | Çalışıyor |
 | DiziYo | Dizi | v2 | Bakımda |
 | YoTurkish | Yerli | v1 | Çalışıyor |
+| InatBoxBC | Film + Dizi + Canli | v1 | Çalışıyor |
 
 Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
 
