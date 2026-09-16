@@ -67,7 +67,6 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | AnimeWorld | Anime | v1 | Çalışıyor |
 | AnimeYTX | Anime | v1 | Çalışıyor |
 | AnimeciX | Anime | v1 | Çalışıyor |
-| Animejara | Anime | v1 | Çalışıyor |
 | AsyaAnimeleri | Anime | v1 | Çalışıyor |
 | AsyaWatch | Asya Dizisi | v1 | Çalışıyor |
 | BelgeselX | Belgesel | v1 | Çalışıyor |

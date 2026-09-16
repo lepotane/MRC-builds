@@ -40,27 +40,6 @@
     "name": "AnimeciX"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
-    "fileHash": "sha256-953a6a40f5355afd85f10f1e1e279c9bfb2a4cd123f631036af771a75374f7ae",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 21514,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ],
-    "version": 1,
-    "internalName": "Animejara",
-    "description": "Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Animejara.cs3",
-    "name": "Animejara"
-  },
-  {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
     "fileHash": "sha256-a2af4b38e761d5d36682c3f06919378f9d0cd6d20de88dd79be07f0ebcc8acda",
     "apiVersion": 1,
