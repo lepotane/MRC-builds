@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziMag | Dizi | v2 | Bakımda |
 | DiziKorea | Kore Dizisi | v1 | Çalışıyor |
 | FilmEkseni | Film | v1 | Çalışıyor |
-| SelcukFlix | Film + Dizi | v3 | Bakımda |
+| SelcukFlix | Film + Dizi | v4 | Çalışıyor |
 | SetFilmIzle | Film + Dizi | v2 | Bakımda |
 | TvDiziler | Dizi | v2 | Bakımda |
 | WebdramaTurkey2 | Web Drama | v2 | Bakımda |

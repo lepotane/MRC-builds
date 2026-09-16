@@ -967,11 +967,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
-    "fileHash": "sha256-b326de08cae17f76b358bcada0ce40f514697875969e0ad2704a7ff354331e5f",
+    "fileHash": "sha256-84820d50ec5f3111bd15811fe270a532d85593cd4ef2470a52d89e68b8e0e772",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 32264,
-    "status": 0,
+    "fileSize": 56204,
+    "status": 1,
     "language": "tr",
     "authors": [
       "MRC"
@@ -980,7 +980,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "SelcukFlix",
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SelcukFlix.cs3",
