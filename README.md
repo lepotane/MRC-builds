@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziGom | Dizi | v3 | Bakımda |
 | DiziBox | Dizi | v5 | Çalışıyor |
 | DiziMom | Dizi | v1 | Çalışıyor |
-| DiziYou | Dizi | v2 | Bakımda |
+| DiziYou | Dizi | v3 | Çalışıyor |
 | DiziLife | Dizi | v1 | Çalışıyor |
 | DiziBal | Dizi | v1 | Çalışıyor |
 | DiziBol | Dizi | v1 | Çalışıyor |
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FilmIzyon | Film | v2 | Bakımda |
 | Filmzal | Film | v2 | Bakımda |
 | DiziPalOrijinal | Dizi | v4 | Çalışıyor |
-| DiziYo | Dizi | v2 | Bakımda |
+| DiziYo | Dizi | v3 | Çalışıyor |
 | YoTurkish | Yerli | v1 | Çalışıyor |
 | InatBoxBC | Film + Dizi + Canli | v1 | Çalışıyor |
 | Atv | Dizi + Canli | v2 | Bakımda |
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DMax | Belgesel + Canli | v1 | Çalışıyor |
 | HdFilmCehennemi2 | Film | v2 | Bakımda |
 | KanalD | Dizi + Canli | v1 | Çalışıyor |
-| OpenAnime | Anime | v1 | Çalışıyor |
+| OpenAnime | Anime | v2 | Bakımda |
 | RecTVBC | Film + Canli + Dizi | v1 | Çalışıyor |
 | SezonlukDizi | Dizi | v2 | Bakımda |
 | Showtv | Dizi + Canli | v1 | Çalışıyor |

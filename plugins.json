@@ -515,11 +515,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
-    "fileHash": "sha256-9d98aadf226fa4073878a47933230d49742fefb03f4b415a6c21988e569f888f",
+    "fileHash": "sha256-64235eea63b16953172c31ae7ad325b95c3f0e8f784f6ff381bc3d38d587bbcf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 29008,
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "MRC"
@@ -528,19 +528,19 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "DiziYo",
-    "description": "Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
+    "description": "Yeni film, dizi, anime bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYo.cs3",
     "name": "DiziYo"
   },
   {
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-    "fileHash": "sha256-8b9823b8da3791fafa51c08fb8d59f10f0a5873645f4816c5ab9dba3893b081a",
+    "fileHash": "sha256-515a5df3b2fecb7e767eacfa70180c58630c2fdf716c0fbc3c885f99dd64871a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 17180,
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "MRC"
@@ -548,9 +548,9 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "DiziYou",
-    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "description": "Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYou.cs3",
     "name": "DiziYou"
   },
@@ -926,11 +926,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=openani.me&sz=%size%",
-    "fileHash": "sha256-9d95d1e9518638ba7bfde5a18452cea54252c842e8bf1ab1cc9198128a1dcfc4",
+    "fileHash": "sha256-094c374bc50d971e0a09dfd8b0fc41193e5af62668bb3365e3fab310d83f0ede",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 17257,
-    "status": 1,
+    "fileSize": 18526,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -938,7 +938,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "OpenAnime",
     "description": "OpenAnime - Açık Kaynak Anime Platformu.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/OpenAnime.cs3",
