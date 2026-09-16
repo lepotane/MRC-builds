@@ -85,6 +85,19 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | DiziYo | Dizi | v2 | Bakımda |
 | YoTurkish | Yerli | v1 | Çalışıyor |
 | InatBoxBC | Film + Dizi + Canli | v1 | Çalışıyor |
+| Atv | Dizi + Canli | v1 | Çalışıyor |
+| CinemaCity | Film + Dizi + Cizgi | v1 | Bakımda |
+| DMax | Belgesel + Canli | v1 | Çalışıyor |
+| HdFilmCehennemi2 | Film | v1 | Çalışıyor |
+| KanalD | Dizi + Canli | v1 | Çalışıyor |
+| OpenAnime | Anime | v1 | Çalışıyor |
+| RecTVBC | Film + Canli + Dizi | v1 | Çalışıyor |
+| SezonlukDizi | Dizi | v1 | Çalışıyor |
+| Showtv | Dizi + Canli | v1 | Çalışıyor |
+| Startv | Dizi + Canli | v1 | Çalışıyor |
+| TLC | Dizi + Canli | v1 | Çalışıyor |
+| Tv8 | Dizi + Canli | v1 | Çalışıyor |
+| UltraFilmizle | Film + Asya Dizisi | v1 | Çalışıyor |
 
 Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
 

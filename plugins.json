@@ -142,6 +142,27 @@
     "name": "AsyaWatch"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
+    "fileHash": "sha256-a860c12fa1dba282d9f7d3217690a4916401db8030f430e0309cd7a724548a10",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 25245,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "Atv",
+    "description": "ATV dizileri, programları ve canlı yayın.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Atv.cs3",
+    "name": "Atv"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
     "fileHash": "sha256-6c9a9115dcc79f0b86ba85850ac84322d02f99d3312b2d76879cad724ae43bf8",
     "apiVersion": 1,
@@ -180,6 +201,28 @@
     "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/BirAsyaDizi.cs3",
     "name": "BirAsyaDizi"
+  },
+  {
+    "iconUrl": "https://i.imgur.com/A87j6ue.png",
+    "fileHash": "sha256-b45366d82a27f3655119000beedd43bf6b700729394d857fa0cf81a7390bb1ab",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 45430,
+    "status": 0,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Cartoon"
+    ],
+    "version": 1,
+    "internalName": "CinemaCity",
+    "description": "Cinema City - Film, dizi ve çizgi filmler.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/CinemaCity.cs3",
+    "name": "CinemaCity"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
@@ -512,6 +555,27 @@
     "name": "DiziYou"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dmax.com.tr&sz=%size%",
+    "fileHash": "sha256-2c91a46224b329d45bebe6dc6fd9efab493ae7b9f70582cbce096cd3b9c003da",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 14143,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Documentary",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "DMax",
+    "description": "DMAX belgeselleri, programları ve canlı yayın.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DMax.cs3",
+    "name": "DMax"
+  },
+  {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
     "fileHash": "sha256-bf48d0935835718f38b514815969c81f3a4f684c5e62db36a0cdcc1e8b3c4c32",
     "apiVersion": 1,
@@ -716,6 +780,26 @@
     "name": "HDFilmCehennemi"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.biz&sz=%size%",
+    "fileHash": "sha256-0a0a67d3d0524593c5dbff121a2ff2f86db1dce7c2ad178d6cf8fc0b5987e05f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 26337,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "HdFilmCehennemi2",
+    "description": "HdFilmCehennemi2 - Alternatif yüksek kalitede film izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HdFilmCehennemi2.cs3",
+    "name": "HdFilmCehennemi2"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
     "fileHash": "sha256-6e6d1bb45d827bbd5e02c375ed3abefa423dda926bed8b6535c3cfb1ca50e149",
     "apiVersion": 1,
@@ -778,6 +862,27 @@
     "name": "JetFilmizle"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.kanald.com.tr&sz=%size%",
+    "fileHash": "sha256-1257b74fcdd88d969dcfa98ced8278fd3e930927ef8ee9ccc1d93d828b2377a4",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 18686,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "KanalD",
+    "description": "Kanal D dizileri, programları ve canlı yayın.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/KanalD.cs3",
+    "name": "KanalD"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
     "fileHash": "sha256-87b1ba73b55db5f7aaa155b64be639e9f846252d3a53c51eb3aecb2499a131cb",
     "apiVersion": 1,
@@ -820,6 +925,26 @@
     "name": "LoveFilm"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=openani.me&sz=%size%",
+    "fileHash": "sha256-9d95d1e9518638ba7bfde5a18452cea54252c842e8bf1ab1cc9198128a1dcfc4",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 17257,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "OpenAnime",
+    "description": "OpenAnime - Açık Kaynak Anime Platformu.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/OpenAnime.cs3",
+    "name": "OpenAnime"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
     "fileHash": "sha256-310be9bf53ce414f12e18c17a1e9ed464f0a01e3a240d3b7ae3a54d734e3cae8",
     "apiVersion": 1,
@@ -838,6 +963,28 @@
     "description": "Unutulmaz nadir filmler arsivi (MRC)",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RareFilmm.cs3",
     "name": "RareFilmm"
+  },
+  {
+    "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
+    "fileHash": "sha256-773e4a1216b5921ad10e7aa1dba3603b27f30be7a0c407ac6dbf5b65f0e87e72",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 43713,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "Live",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "RecTVBC",
+    "description": "RecTV BC - Canlı kanallar, spor yayınları, film ve diziler.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RecTVBC.cs3",
+    "name": "RecTVBC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
@@ -880,6 +1027,47 @@
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SetFilmIzle.cs3",
     "name": "SetFilmIzle"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
+    "fileHash": "sha256-5d69de5b4b5d606e420f6a47c2e0e4aae099acf04ef218bb5282d89d6eaa17ce",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 21267,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "SezonlukDizi",
+    "description": "SezonlukDizi - Yabancı dizi izleme platformu.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SezonlukDizi.cs3",
+    "name": "SezonlukDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%",
+    "fileHash": "sha256-e6405a68856b61ee0edcf1a8bede0ed943a61389923fb4e9eb0936bca581119d",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 24749,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "Showtv",
+    "description": "Show TV dizileri, programları ve canlı yayın.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Showtv.cs3",
+    "name": "Showtv"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
@@ -965,6 +1153,27 @@
     "name": "Sinezy"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
+    "fileHash": "sha256-97cfa6ef0d315f5a58324a8755701ed7a8d5ac30e48809a6e21d941b35c6acdd",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 30116,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "Startv",
+    "description": "Star TV dizileri, programları ve canlı yayın.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Startv.cs3",
+    "name": "Startv"
+  },
+  {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "fileHash": "sha256-86bc59510296246e5ae492424a5119753ab4b3683186969ff56f3a4f4b596962",
     "apiVersion": 1,
@@ -1003,6 +1212,27 @@
     "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Supercartoons.cs3",
     "name": "Supercartoons"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
+    "fileHash": "sha256-5812e1e0602b132aa7babcf60c2fb63b9b95ecfe32a4c38687af06e7405a24c9",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 14151,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "TLC",
+    "description": "TLC dizileri, yaşam ve eğlence programları, canlı yayın.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/TLC.cs3",
+    "name": "TLC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
@@ -1045,6 +1275,27 @@
     "name": "TurkAnime"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
+    "fileHash": "sha256-75e02bb582c73fe03aed65f3e05a5e5a6ac2343ceca65977a81a0486d8d1b38a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 19611,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "Tv8",
+    "description": "TV8 programları, yarışmaları, dizileri ve canlı yayın.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Tv8.cs3",
+    "name": "Tv8"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%",
     "fileHash": "sha256-198beff5a85f46ac4d019214390d547f4338311b83f325cb846298c2e367915d",
     "apiVersion": 1,
@@ -1063,6 +1314,27 @@
     "description": "TvDiziler - Yerli diziler, Türkçe dublaj/altyazılı bölümler.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/TvDiziler.cs3",
     "name": "TvDiziler"
+  },
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ultrafilmizle.org/&size=128",
+    "fileHash": "sha256-82198996863da393e3b279da57bae8adad970e3cc9ba6884f1c727133a109ebd",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 19062,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "UltraFilmizle",
+    "description": "UltraFilmizle - 1080p ve 4K yerli/yabancı film izleme.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/UltraFilmizle.cs3",
+    "name": "UltraFilmizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%",
