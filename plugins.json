@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
-    "fileHash": "sha256-39f41c6c6f3923d7d095934f85528971ebd31df5d58c12d8d19f2d7731b5da50",
+    "fileHash": "sha256-6a821b71dc9dd8a51632ca52034cd43518f8098ec07af526bb9f71e69334b814",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 27944,
+    "fileSize": 28381,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -16,15 +16,15 @@
     "version": 1,
     "internalName": "AnimeAV",
     "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/AnimeAV.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/AnimeAV.cs3",
     "name": "AnimeAV"
   },
   {
     "iconUrl": "https://anm.cx/favicon.ico",
-    "fileHash": "sha256-771b9c8394acb18a9e29ce08c3203736cd22f726e66670734e14cc8b452e87d3",
+    "fileHash": "sha256-96f28dbb3fdfa863ad24a92cead20e4ebc90e654f4e886dacdaea1d9c50011f2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26299,
+    "fileSize": 26757,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -36,15 +36,15 @@
     "version": 1,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/AnimeciX.cs3",
     "name": "AnimeciX"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
-    "fileHash": "sha256-a2af4b38e761d5d36682c3f06919378f9d0cd6d20de88dd79be07f0ebcc8acda",
+    "fileHash": "sha256-5343437765b8038a94a8100da740f3072d34a96ca68cc722c4361176c43868a7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 14669,
+    "fileSize": 15119,
     "status": 1,
     "language": "it",
     "authors": [
@@ -56,15 +56,15 @@
     "version": 1,
     "internalName": "AnimeWorld",
     "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/AnimeWorld.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/AnimeWorld.cs3",
     "name": "AnimeWorld"
   },
   {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
-    "fileHash": "sha256-2d1b99418f00eeff2d0bd358f93219df4b9ec10e9402b532604d26674630fa2d",
+    "fileHash": "sha256-dd9029dfe6874f902e86c64fdbf1478b50d81636b7f07edfe40240df9f6ae84b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 43586,
+    "fileSize": 44064,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -76,15 +76,15 @@
     "version": 1,
     "internalName": "AnimeYTX",
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/AnimeYTX.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/AnimeYTX.cs3",
     "name": "AnimeYTX"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
-    "fileHash": "sha256-18be136f35552f87970482f897abdd0d7c9610159a03314eb4a1af5e10991b97",
+    "fileHash": "sha256-8f0cc0dfe98d9cef55d592b646625b3baf1b729c8c90720d84eff13a6448d249",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 13893,
+    "fileSize": 14358,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -96,15 +96,15 @@
     "version": 1,
     "internalName": "AsyaAnimeleri",
     "description": "Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/AsyaAnimeleri.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/AsyaAnimeleri.cs3",
     "name": "AsyaAnimeleri"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
-    "fileHash": "sha256-a1d33ada088536df500e8fdb83ec93d62e24502d3a09d783a2ffd76c493a978d",
+    "fileHash": "sha256-dec835bab2c0a9b36dc510be1a7ce17de18977fddf23d9c72669dc4f197f1171",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 32284,
+    "fileSize": 32732,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -117,15 +117,15 @@
     "version": 1,
     "internalName": "AsyaWatch",
     "description": "Asyawatch",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/AsyaWatch.cs3",
     "name": "AsyaWatch"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
-    "fileHash": "sha256-b8f7d29c7566cf5343d691dd351ae665490790684f2c2c78239851de3186db2b",
+    "fileHash": "sha256-399028bb3e9acee8a6d124469b070e4b966844683136dfa425800efb3151f56c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 25245,
+    "fileSize": 25673,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -138,15 +138,15 @@
     "version": 2,
     "internalName": "Atv",
     "description": "ATV dizileri, programları ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Atv.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Atv.cs3",
     "name": "Atv"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
-    "fileHash": "sha256-6c9a9115dcc79f0b86ba85850ac84322d02f99d3312b2d76879cad724ae43bf8",
+    "fileHash": "sha256-49a0448b1478370aea4688425c12c234a0ff65f09b95912cfa64443ce632d232",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 30860,
+    "fileSize": 31289,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -158,15 +158,15 @@
     "version": 1,
     "internalName": "BelgeselX",
     "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/BelgeselX.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/BelgeselX.cs3",
     "name": "BelgeselX"
   },
   {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
-    "fileHash": "sha256-c2f277fd95a24d4348eda8a6910712685c018b8c9d43c7c69e3314342cca568c",
+    "fileHash": "sha256-4c2dd584130dfb9cdd5d4fb2d92d933249878148f1f78c9cb1c9f81e5cb528d1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 13959,
+    "fileSize": 14414,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -178,15 +178,15 @@
     "version": 1,
     "internalName": "BirAsyaDizi",
     "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/BirAsyaDizi.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/BirAsyaDizi.cs3",
     "name": "BirAsyaDizi"
   },
   {
     "iconUrl": "https://i.imgur.com/A87j6ue.png",
-    "fileHash": "sha256-b45366d82a27f3655119000beedd43bf6b700729394d857fa0cf81a7390bb1ab",
+    "fileHash": "sha256-cb8af349be28cedb47a47a4d5e97a7f3f3249481b7fd983dc34d0083dc2f6ff4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 45430,
+    "fileSize": 45841,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -200,15 +200,15 @@
     "version": 1,
     "internalName": "CinemaCity",
     "description": "Cinema City - Film, dizi ve çizgi filmler.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/CinemaCity.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/CinemaCity.cs3",
     "name": "CinemaCity"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
-    "fileHash": "sha256-feee584d14a0d2f9459bd4bdd3ca70824459a55de81af0577c80cdcedaf24d81",
+    "fileHash": "sha256-26064a39eddc9bcf29063ef63a943481eb76f03804851d8bf7b584d393ecd1ca",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 35177,
+    "fileSize": 35630,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -222,15 +222,15 @@
     "version": 1,
     "internalName": "CizgiMax",
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/CizgiMax.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/CizgiMax.cs3",
     "name": "CizgiMax"
   },
   {
     "iconUrl": "https://www.ddizi.im/favicon.ico",
-    "fileHash": "sha256-c5ade38cabcf4a22f77ec1cb2af4fe1f3fc644439d9b6a3f5ec9bf3c04dad0f1",
+    "fileHash": "sha256-cf1e6026b318f2363746369225bfb14764ce41f5b5ae51658d4f8b4f00237c97",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 25559,
+    "fileSize": 25979,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -242,15 +242,15 @@
     "version": 4,
     "internalName": "DDizi",
     "description": "DDizi.im için Cloudstream eklentisi.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DDizi.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DDizi.cs3",
     "name": "DDizi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
-    "fileHash": "sha256-80730a3f0bbf9db53f9996f7c356c27bf065e9c627ae56c8e0567b569f592711",
+    "fileHash": "sha256-ab092fa024da4db517972f3e06ce3f559d745cd3b6f79b93099279a4a71d7069",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33211,
+    "fileSize": 33669,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -264,15 +264,15 @@
     "version": 1,
     "internalName": "DiziBal",
     "description": "En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBal.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziBal.cs3",
     "name": "DiziBal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
-    "fileHash": "sha256-3ca31d0d65232a0acc02b7cecd6b9e2d9660698a6ec25300b9944961427f1c7a",
+    "fileHash": "sha256-a2db0f3ff2a0f90323f3d9ceedfad777ae0140ef9dbe530f71754d8ec68a8eeb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33223,
+    "fileSize": 33655,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -286,15 +286,15 @@
     "version": 1,
     "internalName": "DiziBol",
     "description": "En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBol.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziBol.cs3",
     "name": "DiziBol"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
-    "fileHash": "sha256-8e73b3fd6ba0865629263d930f25053587567586cbba86204a635d33e4bb03ae",
+    "fileHash": "sha256-add6ae46b402d58329f60acf7b1d89ed910cf99b996f0e1517cfd093b1e8a33f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 25223,
+    "fileSize": 25655,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -306,15 +306,15 @@
     "version": 5,
     "internalName": "DiziBox",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBox.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziBox.cs3",
     "name": "DiziBox"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
-    "fileHash": "sha256-285094d1839d18706eec7549112ed7d17069382d2cdf337f42add5f6eac2b5da",
+    "fileHash": "sha256-35898ddc495dc1dd30e4b0c9db0821693fe57b78d35fb8151380f6076f6e6ac2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 15211,
+    "fileSize": 15678,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -326,15 +326,15 @@
     "version": 3,
     "internalName": "DiziGom",
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziGom.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziGom.cs3",
     "name": "DiziGom"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
-    "fileHash": "sha256-9dbd8acca1f8e649d9761ba0b7041b24461cb1b6c2459d0be0d7693343dacabf",
+    "fileHash": "sha256-867204339241602dabd266ad7bb910edf3c5f7e5afb5b137353cc87a4827681b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 23452,
+    "fileSize": 23894,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -346,15 +346,15 @@
     "version": 1,
     "internalName": "DiziKorea",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziKorea.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziKorea.cs3",
     "name": "DiziKorea"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=%size%",
-    "fileHash": "sha256-b42bd7e0383e2054bf63a4e6adc4adcf04e26973fbcf4a38fad92bff48360fa4",
+    "fileHash": "sha256-1eeb1253212d77eb6dcc2cdf8eef5e829372e5abc015a4f616b16b0c0f3388e7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 17100,
+    "fileSize": 17565,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -367,15 +367,15 @@
     "version": 1,
     "internalName": "DiziLife",
     "description": "Dizi.life Türkçe dizi/film izleme platformu — yabancı diziler, yeni filmler, son bölümler.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziLife.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziLife.cs3",
     "name": "DiziLife"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
-    "fileHash": "sha256-7dee7646ea82184a90596628556d9143f5f55e8e4df1871c788e52771d0365de",
+    "fileHash": "sha256-19eb75b3e80e2f04ab754ed264425f3ff80f1883d47928e6abcea51bed8df461",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 36192,
+    "fileSize": 36622,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -387,15 +387,15 @@
     "version": 2,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Dizilla.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Dizilla.cs3",
     "name": "Dizilla"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
-    "fileHash": "sha256-57d9a47f4624f9ff05debf186d21a25ae2bf5b63865fdcf15923c3a23df0b365",
+    "fileHash": "sha256-f6bc7c61e02d169567ae1397e98325105b9109f47dc7d94e576dc5296ef5b124",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48211,
+    "fileSize": 48599,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -407,15 +407,15 @@
     "version": 2,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziMag.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziMag.cs3",
     "name": "DiziMag"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
-    "fileHash": "sha256-d568e535b069dc3c54de0ffbc82340455ea3081ce22326fdefcc9af6da84edb3",
+    "fileHash": "sha256-305f4f37229c790792b9b1a3a70e8b4c14e2776f7076c16bd0ce677d3e0cc5cf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26623,
+    "fileSize": 27073,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -428,15 +428,15 @@
     "version": 1,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziMom.cs3",
     "name": "DiziMom"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2132.com&sz=%size%",
-    "fileHash": "sha256-df99957048ed276392e561daef66df34b099f00d82238b960b5c4998386358bd",
+    "fileHash": "sha256-a5ed9c9385e5b45699ce13387f5578b5f68dd49ad5a7c7251cdf16ac03b58290",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 25266,
+    "fileSize": 25744,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -449,15 +449,15 @@
     "version": 3,
     "internalName": "DiziPal",
     "description": "DiziPal - Güncel domain ile yabancı dizi ve filmleri güvenli ve hızlı şekilde sunar.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziPal.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziPal.cs3",
     "name": "DiziPal"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128",
-    "fileHash": "sha256-198cf40695549fad2fdf1d137f9d052ad213d8354bf9506ea4ec0b7a3928c0d9",
+    "fileHash": "sha256-012f3bac3dc7e58f7414b09fcabe2bdc35a990678a8568fa2e3a4f93ead43d01",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 47207,
+    "fileSize": 47649,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -469,15 +469,15 @@
     "version": 4,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziPalOrijinal.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziPalOrijinal.cs3",
     "name": "DiziPalOrijinal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac",
-    "fileHash": "sha256-38e51bd3a58704fdbb54328cd018041b1b62f6a850a59b5408346b3c95c82a25",
+    "fileHash": "sha256-2db6d4446499e5117b27c7aa49862ac831ce034a34c18a3a13843bfa9f30f361",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 20865,
+    "fileSize": 21338,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -489,15 +489,15 @@
     "version": 3,
     "internalName": "DiziWatch",
     "description": "Yabancı dizi izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziWatch.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziWatch.cs3",
     "name": "DiziWatch"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
-    "fileHash": "sha256-55219474442da64df0b85be420d40ebde1bc46fca16739d2a37d662bce1a80cf",
+    "fileHash": "sha256-bec09e653b27a6cd380afdd2a2d32fe518b41d62c16d05783b283abbab77b16e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33524,
+    "fileSize": 33979,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -510,15 +510,15 @@
     "version": 5,
     "internalName": "DiziYo",
     "description": "Yeni film, dizi, anime bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYo.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziYo.cs3",
     "name": "DiziYo"
   },
   {
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-    "fileHash": "sha256-dd0723dc9bd0b86011cbf52370f2efd0ca59901fcea6f03d7561bd72b55acae0",
+    "fileHash": "sha256-8a0fb64194b61c76a0c9adf302b40777eb09376d563c7044c1512386710293e3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 17871,
+    "fileSize": 18324,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -530,15 +530,15 @@
     "version": 6,
     "internalName": "DiziYou",
     "description": "Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYou.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziYou.cs3",
     "name": "DiziYou"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dmax.com.tr&sz=%size%",
-    "fileHash": "sha256-2c91a46224b329d45bebe6dc6fd9efab493ae7b9f70582cbce096cd3b9c003da",
+    "fileHash": "sha256-9681ebb474b935daf01701b1c693d9cbbe98614a46758f38172c59808515556b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 14143,
+    "fileSize": 14575,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -551,15 +551,15 @@
     "version": 1,
     "internalName": "DMax",
     "description": "DMAX belgeselleri, programları ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DMax.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DMax.cs3",
     "name": "DMax"
   },
   {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
-    "fileHash": "sha256-bf48d0935835718f38b514815969c81f3a4f684c5e62db36a0cdcc1e8b3c4c32",
+    "fileHash": "sha256-f5e450ecac96cb30c2d2e8c9863d59ac98a25ead18ff2fdb832258783e070aaa",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 15717,
+    "fileSize": 16186,
     "status": 1,
     "language": "en",
     "authors": [
@@ -571,15 +571,15 @@
     "version": 1,
     "internalName": "DocumentaryArea",
     "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DocumentaryArea.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DocumentaryArea.cs3",
     "name": "DocumentaryArea"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
-    "fileHash": "sha256-fae3799d735936a9788ef0c7511967db96fb61fc8a9ba43e3a8442bc67324318",
+    "fileHash": "sha256-b0a8971fda884bb03b172f350e00702e77a42e3c862ecc8a079a7e64efbd462b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33240,
+    "fileSize": 33713,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -591,15 +591,15 @@
     "version": 1,
     "internalName": "DramaDizilerim",
     "description": "En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DramaDizilerim.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DramaDizilerim.cs3",
     "name": "DramaDizilerim"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=%size%",
-    "fileHash": "sha256-0d0e489d1df291d665762dd58154cd9e36cb1268e1a23d975c643f12a37101ed",
+    "fileHash": "sha256-752530f8120540cc769a50034840f1a1fc157d5169f7ca3d0dc512e9a9fc6039",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 39358,
+    "fileSize": 39795,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -612,15 +612,15 @@
     "version": 1,
     "internalName": "FilmEkseni",
     "description": "Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmEkseni.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/FilmEkseni.cs3",
     "name": "FilmEkseni"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
-    "fileHash": "sha256-f80c5a16edf3872e4f61ffc92762c804a1c104c5805da7f84e9f2d791dfebe29",
+    "fileHash": "sha256-7b6c1a0edaed93e3d4383e1df02c6b0df205df4211f54a8bfea89a690896ed8f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 12468,
+    "fileSize": 12928,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -632,15 +632,15 @@
     "version": 2,
     "internalName": "FilmIzyon",
     "description": "Yerli ve yabancı ödüllü tüm filmleri Türkçe Dublaj veya Orjinal dilde izleyebileceğiniz Türkiye'nin en kaliteli film izleme platformuna hoşgeldiniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmIzyon.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/FilmIzyon.cs3",
     "name": "FilmIzyon"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmakinesi.to",
-    "fileHash": "sha256-7e87d1ae103d7eeabdd7bb10d8e2b5379f287033cf0de5f275a74ed9e4c594cf",
+    "fileHash": "sha256-b93141168cb306932fd1fe2312339fe715aaef4abcdc82f9aa0cc0785fbcf230",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 23301,
+    "fileSize": 23724,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -653,15 +653,15 @@
     "version": 3,
     "internalName": "FilmMakinesi",
     "description": "En iyi 1080p Full HD film sitesi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmMakinesi.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/FilmMakinesi.cs3",
     "name": "FilmMakinesi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one",
-    "fileHash": "sha256-e1212b16adf0e11c2842160964e3e778baf58e6fda9288ea6b080bbedca699ea",
+    "fileHash": "sha256-46869ec5b020cf3c478410b39cb445da2e92f5b84c87ce00030189d1b7032185",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18856,
+    "fileSize": 19307,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -673,15 +673,15 @@
     "version": 2,
     "internalName": "FilmModu",
     "description": "1080p film izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmModu.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/FilmModu.cs3",
     "name": "FilmModu"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmzal.me&sz=%size%",
-    "fileHash": "sha256-4009c022c0dd25ed2cb0c743a4b40de202f4cb14cbe4e4718e18597ee104fb39",
+    "fileHash": "sha256-88e87945496b01b37773eeb004b77a8ac69c1f3e00467237ca66822202a49263",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 22119,
+    "fileSize": 22551,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -694,15 +694,15 @@
     "version": 2,
     "internalName": "Filmzal",
     "description": "Filmzal - Film ve dizi izleme.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Filmzal.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Filmzal.cs3",
     "name": "Filmzal"
   },
   {
     "iconUrl": "https://www.fullhdfilmizlesene.now/favicon.ico",
-    "fileHash": "sha256-3545091d3c33823a85f8c3547a54206a80790a1813d123b328a8469af09b7009",
+    "fileHash": "sha256-5699004de44b71bf6ed427d50e12a295fb293449ca07fd7cbb62e4d051ea2ee5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 21643,
+    "fileSize": 22107,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -714,15 +714,15 @@
     "version": 2,
     "internalName": "FullHDFilmizlesene",
     "description": "FullHDFilmizlesene Turkce Film Saglayicisi",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDFilmizlesene.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/FullHDFilmizlesene.cs3",
     "name": "FullHDFilmizlesene"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdizle.one",
-    "fileHash": "sha256-25e9e3994bb817dd285077ce544454ecbc675ecd683ebf2bbf239c6c3df435b0",
+    "fileHash": "sha256-f4da481566f57a1a46f99ed580e0020f38e48ccfadc67292606397ef87ae72f5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18507,
+    "fileSize": 18958,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -734,15 +734,15 @@
     "version": 4,
     "internalName": "FullHDIzle",
     "description": "Full HD film izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDIzle.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/FullHDIzle.cs3",
     "name": "FullHDIzle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
-    "fileHash": "sha256-dc6489c8c366ec388edc83cd45f0f399a756d9c6a84b5410c48ad76ad9fa9e3a",
+    "fileHash": "sha256-42025e96198564e1c6c63a553b2ac124dc5a577a8d7b76b883ba6b56c8c5a516",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 31037,
+    "fileSize": 31452,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -755,15 +755,15 @@
     "version": 6,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı HD film izleme sitesi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmCehennemi.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/HDFilmCehennemi.cs3",
     "name": "HDFilmCehennemi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.biz&sz=%size%",
-    "fileHash": "sha256-17b66468e09011b12e07cf9130c46a7bdee057bcd1317961bbfcdc902a86a545",
+    "fileHash": "sha256-b5b0aa75a9b3da9eae801fd2ec063ad8ca6bf2a22b422447a3afe2919743897d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26337,
+    "fileSize": 26776,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -775,15 +775,15 @@
     "version": 2,
     "internalName": "HdFilmCehennemi2",
     "description": "HdFilmCehennemi2 - Alternatif yüksek kalitede film izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HdFilmCehennemi2.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/HdFilmCehennemi2.cs3",
     "name": "HdFilmCehennemi2"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
-    "fileHash": "sha256-6e6d1bb45d827bbd5e02c375ed3abefa423dda926bed8b6535c3cfb1ca50e149",
+    "fileHash": "sha256-b4106b135c01685fdc67de13f5f7c23f141d5ea05be7cebf4caf1a69d3829fb9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 16248,
+    "fileSize": 16712,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -795,15 +795,15 @@
     "version": 6,
     "internalName": "HDFilmDelisi",
     "description": "Dublaj ve altyazılı HD filmler (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmDelisi.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/HDFilmDelisi.cs3",
     "name": "HDFilmDelisi"
   },
   {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "fileHash": "sha256-9146224dc1e934bfe62e2e71e5bede3d6499cf604fcdb7d2c9fb38e390bd288d",
+    "fileHash": "sha256-78fbb5681abc67338d6b0dac80b491aaa8470a0b6de3a9462655535071adfbd8",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48282,
+    "fileSize": 48660,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -817,15 +817,15 @@
     "version": 1,
     "internalName": "InatBoxBC",
     "description": "İnatBox BC - Canlı kanallar, spor, film ve diziler.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/InatBoxBC.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/InatBoxBC.cs3",
     "name": "InatBoxBC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=jetfilmizle.now",
-    "fileHash": "sha256-52cdb2b0f8a8185571cccd909b0da28cf95d34dc2b4a39ff2fe106e7f343c865",
+    "fileHash": "sha256-f211f0b2642a713cdead55c9eeafe39bc5b0fc8ab52f23f68dadee41feb46d48",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18073,
+    "fileSize": 18543,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -837,15 +837,15 @@
     "version": 2,
     "internalName": "JetFilmizle",
     "description": "Jet hızında film izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/JetFilmizle.cs3",
     "name": "JetFilmizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.kanald.com.tr&sz=%size%",
-    "fileHash": "sha256-1257b74fcdd88d969dcfa98ced8278fd3e930927ef8ee9ccc1d93d828b2377a4",
+    "fileHash": "sha256-da0d6cd627a2af5b50ce832940d35b3473fc64532a7c3909ddbd24400c20d704",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18686,
+    "fileSize": 19083,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -858,15 +858,15 @@
     "version": 1,
     "internalName": "KanalD",
     "description": "Kanal D dizileri, programları ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/KanalD.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/KanalD.cs3",
     "name": "KanalD"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
-    "fileHash": "sha256-87b1ba73b55db5f7aaa155b64be639e9f846252d3a53c51eb3aecb2499a131cb",
+    "fileHash": "sha256-7db24bf284c5e361220423ff4374aaa22349313347db7565996397afac15bb52",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19703,
+    "fileSize": 20165,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -879,15 +879,15 @@
     "version": 2,
     "internalName": "KultFilmler",
     "description": "Seçkin kült film ve dizi arşivi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/KultFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/KultFilmler.cs3",
     "name": "KultFilmler"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%",
-    "fileHash": "sha256-3f9b01e0c5c20d2bf2e1afcf0cbfcfce0a34253f96bf3f99b15a369267db03c8",
+    "fileHash": "sha256-0bdef2eec079be92f2541ace4f9e6e339183f093d0401232818009af04fb5db0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26947,
+    "fileSize": 27384,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -900,15 +900,15 @@
     "version": 2,
     "internalName": "LoveFilm",
     "description": "Full HD Film izle - Türkçe Dublaj Altyazılı Film izleme sitesi olarak sizlere yabancı yerli filmleri yüksek kalitede sunmakdayız. Kaliteli film izle sitesi",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/LoveFilm.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/LoveFilm.cs3",
     "name": "LoveFilm"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=openani.me&sz=%size%",
-    "fileHash": "sha256-094c374bc50d971e0a09dfd8b0fc41193e5af62668bb3365e3fab310d83f0ede",
+    "fileHash": "sha256-ef044df8f26439f571ecbfc0858d61ed4fd28837039c5c86010ca45fae147536",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18526,
+    "fileSize": 18979,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -920,15 +920,15 @@
     "version": 2,
     "internalName": "OpenAnime",
     "description": "OpenAnime - Açık Kaynak Anime Platformu.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/OpenAnime.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/OpenAnime.cs3",
     "name": "OpenAnime"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
-    "fileHash": "sha256-310be9bf53ce414f12e18c17a1e9ed464f0a01e3a240d3b7ae3a54d734e3cae8",
+    "fileHash": "sha256-121e212c7a6698c7faf4ad876cd2cde4a4166a63167ce335dce083a9ab3e3043",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 13596,
+    "fileSize": 14049,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -940,15 +940,15 @@
     "version": 3,
     "internalName": "RareFilmm",
     "description": "Unutulmaz nadir filmler arsivi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RareFilmm.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/RareFilmm.cs3",
     "name": "RareFilmm"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
-    "fileHash": "sha256-773e4a1216b5921ad10e7aa1dba3603b27f30be7a0c407ac6dbf5b65f0e87e72",
+    "fileHash": "sha256-9cf4dcac12433a73f1fa6e35bb678e299f80671091b4a1e7db99239050c5a7f2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 43713,
+    "fileSize": 44148,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -962,15 +962,15 @@
     "version": 1,
     "internalName": "RecTVBC",
     "description": "RecTV BC - Canlı kanallar, spor yayınları, film ve diziler.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RecTVBC.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/RecTVBC.cs3",
     "name": "RecTVBC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
-    "fileHash": "sha256-84820d50ec5f3111bd15811fe270a532d85593cd4ef2470a52d89e68b8e0e772",
+    "fileHash": "sha256-4a2914f4755861d6ee9bbbfcac69b8397c64f3177b86d523780bcc663ebc8e8a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 56204,
+    "fileSize": 56670,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -983,15 +983,15 @@
     "version": 4,
     "internalName": "SelcukFlix",
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SelcukFlix.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/SelcukFlix.cs3",
     "name": "SelcukFlix"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
-    "fileHash": "sha256-621bae8a8558f9bf45b475145b07e541b49693f2b9cf1a92bbbcb87e76f6fd7e",
+    "fileHash": "sha256-9e4f4617a6d3aa3bdc854a8675ae236d7f5e9abd2ebc5b37ce3f0d0122836392",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 28025,
+    "fileSize": 28466,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1004,15 +1004,15 @@
     "version": 2,
     "internalName": "SetFilmIzle",
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SetFilmIzle.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/SetFilmIzle.cs3",
     "name": "SetFilmIzle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
-    "fileHash": "sha256-f91861164a19065629dbc8ac7eb7e7a861d23f402277e4008480f012bb03852f",
+    "fileHash": "sha256-7aa4084039853449052be543778a95db165e08642eac51a19edf26c7494cc308",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 21267,
+    "fileSize": 21724,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1024,15 +1024,15 @@
     "version": 2,
     "internalName": "SezonlukDizi",
     "description": "SezonlukDizi - Yabancı dizi izleme platformu.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SezonlukDizi.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/SezonlukDizi.cs3",
     "name": "SezonlukDizi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%",
-    "fileHash": "sha256-e6405a68856b61ee0edcf1a8bede0ed943a61389923fb4e9eb0936bca581119d",
+    "fileHash": "sha256-5ab9cefee84a8bb8c74b13551f20088eb3d5139a2308e8fe13df7a1e19eb1bb1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 24749,
+    "fileSize": 25191,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1045,15 +1045,15 @@
     "version": 1,
     "internalName": "Showtv",
     "description": "Show TV dizileri, programları ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Showtv.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Showtv.cs3",
     "name": "Showtv"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
-    "fileHash": "sha256-3515b80e2baa3706960892c6a7ad421226db8df1e723f5a5010945645add6130",
+    "fileHash": "sha256-e2d66bd65c48a19e0c9764ed3d18e3d38e5c9b727fa2a7126005fac76cc82233",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 21255,
+    "fileSize": 21708,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1066,15 +1066,15 @@
     "version": 1,
     "internalName": "Sinefy",
     "description": "Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinefy.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Sinefy.cs3",
     "name": "Sinefy"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinemacc.com",
-    "fileHash": "sha256-9c59439dae4718439d9ca07650f6252574ca337c1b1950f29f2d1b7224401076",
+    "fileHash": "sha256-847a58268c0cd101a68bb25ac1134fe8061d5d5f139119213f1a00329021974b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 16944,
+    "fileSize": 17388,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1086,15 +1086,15 @@
     "version": 3,
     "internalName": "SinemaCX",
     "description": "Türkçe dublaj HD yabancı filmler (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SinemaCX.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/SinemaCX.cs3",
     "name": "SinemaCX"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
-    "fileHash": "sha256-aec30608cd5d177ed00d44678e71ac2b5ee2540268d61a871c13c769a481fa74",
+    "fileHash": "sha256-e55d53ce3c61fa6735a9147b4ad4ac1488ebe6a7d5a87e06fc72b8d93107b7df",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 30468,
+    "fileSize": 30888,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1108,15 +1108,15 @@
     "version": 1,
     "internalName": "SineWix",
     "description": "SineWix | Film - Dizi - Anime İzleme Uygulaması",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SineWix.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/SineWix.cs3",
     "name": "SineWix"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
-    "fileHash": "sha256-4b1d68cf4d6c00f922637d84c958deb570f0f8f5b55f241ebf7a88716e5424a2",
+    "fileHash": "sha256-e37110ee3ec435a86fdb48be95498e0b3bf9886dc1f9ff46c64e80ba4ac460c9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 17628,
+    "fileSize": 18082,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1128,15 +1128,15 @@
     "version": 3,
     "internalName": "Sinezy",
     "description": "HD film izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinezy.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Sinezy.cs3",
     "name": "Sinezy"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
-    "fileHash": "sha256-98d65fbab59f4725be88d4cbd83942a42cc91c683f2b0685bb0ee17087e99c25",
+    "fileHash": "sha256-6bc8cdb8093d7455561462b513b25276123039284e20b537bc18ee66f5f71614",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 30116,
+    "fileSize": 30545,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1149,15 +1149,15 @@
     "version": 2,
     "internalName": "Startv",
     "description": "Star TV dizileri, programları ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Startv.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Startv.cs3",
     "name": "Startv"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
-    "fileHash": "sha256-86bc59510296246e5ae492424a5119753ab4b3683186969ff56f3a4f4b596962",
+    "fileHash": "sha256-f50bf628d187ee4c87cefcc4302b7feca074ef7657da44ce29458598154920ef",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33147,
+    "fileSize": 33568,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1169,15 +1169,15 @@
     "version": 1,
     "internalName": "Streamed",
     "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Streamed.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Streamed.cs3",
     "name": "Streamed"
   },
   {
     "iconUrl": "https://i.imgur.com/LBfX2k3.png",
-    "fileHash": "sha256-7c7d274646a33cf0f665fe43c8e97913f375fa32bd0c5eec3318ce5a1580e95f",
+    "fileHash": "sha256-f9b5d12e407e526e1e78279b9207bd08e1491e931eaeab069eb30f4912da3e48",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 11340,
+    "fileSize": 11792,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1189,15 +1189,15 @@
     "version": 1,
     "internalName": "Supercartoons",
     "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Supercartoons.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Supercartoons.cs3",
     "name": "Supercartoons"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
-    "fileHash": "sha256-5812e1e0602b132aa7babcf60c2fb63b9b95ecfe32a4c38687af06e7405a24c9",
+    "fileHash": "sha256-c95d504f801303d28a6b7fcceb2bda0f52dbc91be329a758e029501b3da27394",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 14151,
+    "fileSize": 14585,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1210,15 +1210,15 @@
     "version": 1,
     "internalName": "TLC",
     "description": "TLC dizileri, yaşam ve eğlence programları, canlı yayın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/TLC.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/TLC.cs3",
     "name": "TLC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
-    "fileHash": "sha256-9ed9346cc782d8e4d623459535158d42b4e5726a94974bbeca48163efecc4191",
+    "fileHash": "sha256-0090f2c5e2f1fc376c83035ac90db10cd6fa77da10117d9b48207a949133a6f9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 24477,
+    "fileSize": 24921,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1230,15 +1230,15 @@
     "version": 3,
     "internalName": "TRasyalog",
     "description": "TRasyalog izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/TRasyalog.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/TRasyalog.cs3",
     "name": "TRasyalog"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tranimeizle.io&sz=%size%",
-    "fileHash": "sha256-7caf34043f4462a4376ab8ec3105c6e2af2533555d1b480a28e0193071cf6aed",
+    "fileHash": "sha256-1af951ce0b92c49034d097a886d4ec8ab6704abe54b06cf6977b4cb58d6288f3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 22715,
+    "fileSize": 23128,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1250,15 +1250,15 @@
     "version": 1,
     "internalName": "TurkAnime",
     "description": "Tranimeizle - Türkçe altyazılı anime izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/TurkAnime.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/TurkAnime.cs3",
     "name": "TurkAnime"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
-    "fileHash": "sha256-75e02bb582c73fe03aed65f3e05a5e5a6ac2343ceca65977a81a0486d8d1b38a",
+    "fileHash": "sha256-de382501db02c88327176a822f346373bf2a969b0bda2adc0c39da469a837372",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19611,
+    "fileSize": 20014,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1271,15 +1271,15 @@
     "version": 1,
     "internalName": "Tv8",
     "description": "TV8 programları, yarışmaları, dizileri ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Tv8.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Tv8.cs3",
     "name": "Tv8"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%",
-    "fileHash": "sha256-198beff5a85f46ac4d019214390d547f4338311b83f325cb846298c2e367915d",
+    "fileHash": "sha256-eb89159f954d37f8ea0ccdd5dc9cf5fd28f6ce7ba3d1c1c49ad069f2c62c3927",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 27515,
+    "fileSize": 27918,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1291,15 +1291,15 @@
     "version": 2,
     "internalName": "TvDiziler",
     "description": "TvDiziler - Yerli diziler, Türkçe dublaj/altyazılı bölümler.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/TvDiziler.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/TvDiziler.cs3",
     "name": "TvDiziler"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ultrafilmizle.org/&size=128",
-    "fileHash": "sha256-970ce3afc252e1d1854815764caeb59f2c7a1250de9674bf9d88ba5a5217a75b",
+    "fileHash": "sha256-1e3a44603cb744086288975e8fd00c4049903698880b820353a682185053a269",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19063,
+    "fileSize": 19522,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1312,15 +1312,15 @@
     "version": 2,
     "internalName": "UltraFilmizle",
     "description": "UltraFilmizle - 1080p ve 4K yerli/yabancı film izleme.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/UltraFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/UltraFilmizle.cs3",
     "name": "UltraFilmizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%",
-    "fileHash": "sha256-ab0bf54247c4915ee95bc587101ab34790555f71f1608d9a09b37eaae4fa75bf",
+    "fileHash": "sha256-a53adb333d49ac994d3fed05eb184011bbfbb1cb4bde0c67a201ca6db5f6d7ab",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 24613,
+    "fileSize": 25060,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1333,15 +1333,15 @@
     "version": 1,
     "internalName": "Watch2Movies",
     "description": "Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Watch2Movies.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Watch2Movies.cs3",
     "name": "Watch2Movies"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
-    "fileHash": "sha256-5c62b6337efdfd2bee2553a22af9b9e126fd02782dd63b8d6190f811af92cc2d",
+    "fileHash": "sha256-a4559cf3c232e49f73b5588fdeaec5f1ccf2991ff75965d7877ba2f9fe3b290f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48620,
+    "fileSize": 49092,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1356,15 +1356,15 @@
     "version": 2,
     "internalName": "WebdramaTurkey2",
     "description": "WebdramaTurkey2 İçerikleri",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/WebdramaTurkey2.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/WebdramaTurkey2.cs3",
     "name": "WebdramaTurkey2"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://webteizle3.xyz&sz=%size%",
-    "fileHash": "sha256-ce24bf1f34c02dcc23caadbb53167d414a1c5e55a5450e2afbdb7e478837bd31",
+    "fileHash": "sha256-b9ed79c8617358392969945b73e99deb96844572b48351af8dfdb126b734f22c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 29009,
+    "fileSize": 29459,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1377,15 +1377,15 @@
     "version": 2,
     "internalName": "Webteizle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Webteizle.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Webteizle.cs3",
     "name": "Webteizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%",
-    "fileHash": "sha256-12ec75ad45240d0d9d0eef15d46fc688333ddbb45b58a637122baca5383dee5b",
+    "fileHash": "sha256-240fa05353bd3dc2c7abdfcc4b70a602bf06079cb0bd9db3289dc73780700e15",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48129,
+    "fileSize": 48547,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -1397,15 +1397,15 @@
     "version": 2,
     "internalName": "YabanciDizi",
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/YabanciDizi.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/YabanciDizi.cs3",
     "name": "YabanciDizi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr",
-    "fileHash": "sha256-af91f6489548e2e01fdb3b6b5e484f5cd372f11c9d959f9d63dfd52fffaa1f4a",
+    "fileHash": "sha256-04932ea19fe54f36d8c32cc738024c64ee88c294642f19e7f959813c31545e31",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18940,
+    "fileSize": 19403,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1417,15 +1417,15 @@
     "version": 2,
     "internalName": "YesilCamTv",
     "description": "Yesilcam klasikleri arsivi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/YesilCamTv.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/YesilCamTv.cs3",
     "name": "YesilCamTv"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
-    "fileHash": "sha256-d0151391c7b0a3219c698bd9a0c6cbb78cdcafc7b93a871195cde2c9cab06195",
+    "fileHash": "sha256-76167be96af08e159c38764c0fa4e6a9ea570f004cc9d9a371ccbca18b61dc46",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19783,
+    "fileSize": 20251,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1437,7 +1437,7 @@
     "version": 1,
     "internalName": "YoTurkish",
     "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/YoTurkish.cs3",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/YoTurkish.cs3",
     "name": "YoTurkish"
   }
 ]

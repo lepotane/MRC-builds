@@ -9,9 +9,9 @@ CloudStream için Türkçe film, dizi ve anime eklentileri.
 
 ## Kurulum
 
-> 📌 **Öneri:** Eklentileri en iyi deneyimle kullanmak için CloudStream'in **pre-release (ön sürüm) build'ini** öneriyoruz. Bu sürüm, kırmızı logolu olan "Pre-release Build" paketidir ve stabil 4.8.0'a göre daha yeni API'leri içerir (çoklu ses/dublaj ayrımı, arka plan görseli, yaş sınırı, sağlayıcı bazlı zaman aşımı vb.). Bazı eklentilerimiz bu yeni özellikleri kullanıyor; ön sürümde en sağlıklı çalışırlar.
+> 📌 **Öneri:** Eklentileri en iyi deneyimle kullanmak için CloudStream'in **pre-release (ön sürüm / Beta)** build'ini öneriyoruz. Bu sürüm kırmızı logolu **"CloudStream Beta"** olarak ayrı bir uygulama halinde kurulur ve stabil sürümün yanında çalışabilir (ikisi birbirini etkilemez). Stabil 4.8.0'a göre daha yeni API'ler içerir: çoklu ses/dublaj ayrımı, arka plan görseli, yaş sınırı, sağlayıcı bazlı zaman aşımı, çok parçalı video desteği ve daha fazlası. Bazı eklentilerimiz bu yeni özellikleri kullanıyor; ön sürümde en sağlıklı çalışırlar.
 >
-> İndirme: <https://github.com/recloudstream/cloudstream/releases> → en üstteki **Pre-release Build**.
+> İndirme: <https://github.com/recloudstream/cloudstream/releases> → en üstteki **Pre-release Build** (`app-prerelease-release.apk`).
 
 1. [CloudStream](https://github.com/recloudstream/cloudstream/releases) uygulamasını kurun (4.8.0 ve üzeri). En iyi sonuç için **Pre-release Build**.
 2. Uygulamada **Ayarlar → Eklentiler → Depo Ekle** bölümüne girin.
