@@ -143,11 +143,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
-    "fileHash": "sha256-a860c12fa1dba282d9f7d3217690a4916401db8030f430e0309cd7a724548a10",
+    "fileHash": "sha256-b8f7d29c7566cf5343d691dd351ae665490790684f2c2c78239851de3186db2b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 25245,
-    "status": 1,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -156,7 +156,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Atv",
     "description": "ATV dizileri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Atv.cs3",
@@ -781,11 +781,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.biz&sz=%size%",
-    "fileHash": "sha256-0a0a67d3d0524593c5dbff121a2ff2f86db1dce7c2ad178d6cf8fc0b5987e05f",
+    "fileHash": "sha256-17b66468e09011b12e07cf9130c46a7bdee057bcd1317961bbfcdc902a86a545",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 26337,
-    "status": 1,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -793,7 +793,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "HdFilmCehennemi2",
     "description": "HdFilmCehennemi2 - Alternatif yüksek kalitede film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HdFilmCehennemi2.cs3",
@@ -1030,11 +1030,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
-    "fileHash": "sha256-5d69de5b4b5d606e420f6a47c2e0e4aae099acf04ef218bb5282d89d6eaa17ce",
+    "fileHash": "sha256-f91861164a19065629dbc8ac7eb7e7a861d23f402277e4008480f012bb03852f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 21267,
-    "status": 1,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -1042,7 +1042,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "SezonlukDizi",
     "description": "SezonlukDizi - Yabancı dizi izleme platformu.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SezonlukDizi.cs3",
@@ -1154,11 +1154,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
-    "fileHash": "sha256-97cfa6ef0d315f5a58324a8755701ed7a8d5ac30e48809a6e21d941b35c6acdd",
+    "fileHash": "sha256-98d65fbab59f4725be88d4cbd83942a42cc91c683f2b0685bb0ee17087e99c25",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 30116,
-    "status": 1,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -1167,7 +1167,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Startv",
     "description": "Star TV dizileri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Startv.cs3",
@@ -1317,11 +1317,11 @@
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ultrafilmizle.org/&size=128",
-    "fileHash": "sha256-82198996863da393e3b279da57bae8adad970e3cc9ba6884f1c727133a109ebd",
+    "fileHash": "sha256-970ce3afc252e1d1854815764caeb59f2c7a1250de9674bf9d88ba5a5217a75b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19062,
-    "status": 1,
+    "fileSize": 19063,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -1330,7 +1330,7 @@
       "Movie",
       "AsianDrama"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "UltraFilmizle",
     "description": "UltraFilmizle - 1080p ve 4K yerli/yabancı film izleme.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/UltraFilmizle.cs3",
