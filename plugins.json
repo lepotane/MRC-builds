@@ -289,10 +289,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
-    "fileHash": "sha256-d61973f4fe7ba1d34ec73b0b3127ef2e1d8310df52fb430cc7bfb035c8f0e709",
+    "fileHash": "sha256-285094d1839d18706eec7549112ed7d17069382d2cdf337f42add5f6eac2b5da",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 15219,
+    "fileSize": 15211,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -301,7 +301,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "DiziGom",
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziGom.cs3",
@@ -432,10 +432,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128",
-    "fileHash": "sha256-fb694c7260ac15d49f82c8f8d0a17d65cf079727b1905d7b3be79c90c84f293d",
+    "fileHash": "sha256-198cf40695549fad2fdf1d137f9d052ad213d8354bf9506ea4ec0b7a3928c0d9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 46720,
+    "fileSize": 47207,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -444,7 +444,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziPalOrijinal.cs3",
@@ -903,11 +903,11 @@
     "name": "Sinefy"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinema.gg",
-    "fileHash": "sha256-b5e5690ce84dc4c01e635dc7aca167b369b99fdbfb67318dc009ce57115917d9",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinemacc.com",
+    "fileHash": "sha256-9c59439dae4718439d9ca07650f6252574ca337c1b1950f29f2d1b7224401076",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 16945,
+    "fileSize": 16944,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -916,7 +916,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "SinemaCX",
     "description": "Türkçe dublaj HD yabancı filmler (MRC)",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SinemaCX.cs3",

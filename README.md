@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FilmMakinesi | Film + Dizi | v3 | Çalışıyor |
 | FullHDFilmizlesene | Film | v2 | Bakımda |
 | JetFilmizle | Film | v2 | Çalışıyor |
-| SinemaCX | Film | v2 | Çalışıyor |
+| SinemaCX | Film | v3 | Çalışıyor |
 | FilmModu | Film | v2 | Çalışıyor |
 | KultFilmler | Film + Dizi | v2 | Çalışıyor |
 | RareFilmm | Film | v3 | Çalışıyor |
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | WebdramaTurkey2 | Web Drama | v2 | Bakımda |
 | Webteizle | Film | v2 | Bakımda |
 | YabanciDizi | Dizi | v2 | Bakımda |
-| DiziGom | Dizi | v2 | Bakımda |
+| DiziGom | Dizi | v3 | Bakımda |
 | DiziBox | Dizi | v5 | Çalışıyor |
 | DiziMom | Dizi | v1 | Çalışıyor |
 | DiziYou | Dizi | v2 | Bakımda |
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | SineWix | Karma | v1 | Çalışıyor |
 | FilmIzyon | Film | v2 | Bakımda |
 | Filmzal | Film | v2 | Bakımda |
-| DiziPalOrijinal | Dizi | v3 | Çalışıyor |
+| DiziPalOrijinal | Dizi | v4 | Çalışıyor |
 | DiziYo | Dizi | v2 | Bakımda |
 | YoTurkish | Yerli | v1 | Çalışıyor |
 | InatBoxBC | Film + Dizi + Canli | v1 | Çalışıyor |
