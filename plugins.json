@@ -515,10 +515,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
-    "fileHash": "sha256-64235eea63b16953172c31ae7ad325b95c3f0e8f784f6ff381bc3d38d587bbcf",
+    "fileHash": "sha256-d7aa66579ab96cd0987e1c7e327177fc6006bfa447a7a6f7d46e64a4e3b2cd3f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 29008,
+    "fileSize": 31180,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -528,7 +528,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "DiziYo",
     "description": "Yeni film, dizi, anime bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYo.cs3",

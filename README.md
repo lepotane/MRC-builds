@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FilmIzyon | Film | v2 | Bakımda |
 | Filmzal | Film | v2 | Bakımda |
 | DiziPalOrijinal | Dizi | v4 | Çalışıyor |
-| DiziYo | Dizi | v3 | Çalışıyor |
+| DiziYo | Dizi | v4 | Çalışıyor |
 | YoTurkish | Yerli | v1 | Çalışıyor |
 | InatBoxBC | Film + Dizi + Canli | v1 | Çalışıyor |
 | Atv | Dizi + Canli | v2 | Bakımda |
