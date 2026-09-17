@@ -163,10 +163,10 @@
   },
   {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
-    "fileHash": "sha256-b8c065b1ed374600df0db42ca67d268d485d70ad6019aedfa5dffc1c088fffec",
+    "fileHash": "sha256-182949b00e48ac236af70b2b390cb7ab5253c2e9a2af56c0baaf58451688563f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 14246,
+    "fileSize": 26332,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -175,7 +175,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "BirAsyaDizi",
     "description": "Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/BirAsyaDizi.cs3",
@@ -205,10 +205,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
-    "fileHash": "sha256-286bb3d161127c2111be7d2011c3ebe020a717db8f729eb7162c6f24de1cec08",
+    "fileHash": "sha256-39b5424ac4a9ef3bde410b4367041a96756c7c10d069646f93c553eefbeb741f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 35461,
+    "fileSize": 39573,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -219,7 +219,7 @@
       "Anime",
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "CizgiMax",
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/CizgiMax.cs3",
@@ -454,10 +454,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128",
-    "fileHash": "sha256-6963e32d341cd4b3ccea969484026972e296fc496d60b22d58c20b5af071cac2",
+    "fileHash": "sha256-48e9990da6467ad4839948246b095c5ac7665661cf0175c90643cbd77553daee",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48882,
+    "fileSize": 52671,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -466,7 +466,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "DiziPalOrijinal",
     "description": "DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziPalOrijinal.cs3",
@@ -494,10 +494,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
-    "fileHash": "sha256-b7996f5897c22fdfd930de8e022876c41f6c7aae133fd3a9132a7b397f897953",
+    "fileHash": "sha256-2e69ae6a1290199904c7356683588352126221db5821a72423ecbb5911e88da0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33812,
+    "fileSize": 41203,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -507,7 +507,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "DiziYo",
     "description": "Yeni film, dizi, anime bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziYo.cs3",
@@ -945,10 +945,10 @@
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
-    "fileHash": "sha256-004103f0ab18bd929ecd4f506c74a060a532ba24830eceda34e4aecb4eb078da",
+    "fileHash": "sha256-dcf0838d402d13d03918fc3450c9b2bd9bddb970607fa4e5b9a3fa5c30abe2ec",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 44017,
+    "fileSize": 43787,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -959,7 +959,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "RecTVBC",
     "description": "RecTV BC - Canlı kanallar, spor yayınları, film ve diziler.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/RecTVBC.cs3",
@@ -967,10 +967,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
-    "fileHash": "sha256-cfe7a911edfa43cf4191c491eb3a5426ea7034588298264db94bea70a1ebb454",
+    "fileHash": "sha256-b9dbebbffe02e80656abf881b2a38c9285bee9d738ac79c7b339fab33812d3bf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 56511,
+    "fileSize": 65757,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -980,7 +980,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "SelcukFlix",
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/SelcukFlix.cs3",
@@ -1235,10 +1235,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tranimeizle.io&sz=%size%",
-    "fileHash": "sha256-99d98c17ac46d58eab26de92a50feb90d00535d85a3069140eb0bf87dd18443b",
+    "fileHash": "sha256-cbc151e4b2e09401664236f70dfe7b4a474fbe12a491cb743e6fd42aae84a439",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 22970,
+    "fileSize": 27520,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1247,7 +1247,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "TurkAnime",
     "description": "Tranimeizle - Türkçe altyazılı anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/TurkAnime.cs3",
