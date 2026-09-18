@@ -433,10 +433,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2132.com&sz=%size%",
-    "fileHash": "sha256-4f96ad1c0be1be40c26704dfcd1e4b376efc958acb1fb5bb589fd684105e388c",
+    "fileHash": "sha256-1db2f7132ef959548040b2f1654af67fbe3cf00952059946872e3ad916c278dc",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 25559,
+    "fileSize": 28508,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -446,7 +446,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziPal",
     "description": "DiziPal - Güncel domain ile yabancı dizi ve filmleri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziPal.cs3",
