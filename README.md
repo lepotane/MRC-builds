@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | Atv | Dizi + Canli | v3 | Bakımda |
 | CinemaCity | Film + Dizi + Cizgi | v2 | Bakımda |
 | DMax | Belgesel + Canli | v2 | Çalışıyor |
-| HdFilmCehennemi2 | Film | v3 | Bakımda |
+| HdFilmCehennemi2 | Film | v4 | Çalışıyor |
 | KanalD | Dizi + Canli | v2 | Çalışıyor |
 | OpenAnime | Anime | v3 | Bakımda |
 | RecTVBC | Film + Canli + Dizi | v4 | Çalışıyor |
