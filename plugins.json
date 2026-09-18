@@ -332,19 +332,19 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
-    "fileHash": "sha256-65628920c01e2e6cce882ed5018ead573649644d31669cb181c11288bfac3ca1",
+    "fileHash": "sha256-fd967bdb0bb8d452adf883375448f51b6a51d73b8bb893d921cbd3de16e8a7af",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 15519,
-    "status": 0,
+    "fileSize": 26354,
+    "status": 1,
     "language": "tr",
     "authors": [
       "MRC"
     ],
     "tvTypes": [
-      "Movie"
+      "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziGom",
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziGom.cs3",
