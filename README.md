@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | TLC | Dizi + Canli | v2 | Çalışıyor |
 | Tv8 | Dizi + Canli | v2 | Çalışıyor |
 | UltraFilmizle | Film + Asya Dizisi | v3 | Bakımda |
-| Anizium | Anime + Film | v1 | Çalışıyor |
+| Anizium | Anime + Film | v2 | Bakımda |
 
 Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
 

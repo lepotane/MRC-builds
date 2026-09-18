@@ -81,11 +81,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=anizium.co",
-    "fileHash": "sha256-934fa4b100a88810ed0d89e20d3f96699128771b712234bc434b9f6841b7d5fa",
+    "fileHash": "sha256-3a94e5a925b0327593ef434ffb4b0924e06d5f43b2901b3fe60c91db0d4ce736",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 34579,
-    "status": 1,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -94,7 +94,7 @@
       "Anime",
       "Movie"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "Anizium",
     "description": "Anizium - Türkçe altyazılı ve dublajlı anime ile anime film arşivi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Anizium.cs3",
