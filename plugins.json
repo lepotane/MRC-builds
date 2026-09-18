@@ -884,10 +884,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
-    "fileHash": "sha256-60dcecdc7cfbd6b910945019ad3ec9ee9d936234d75b4d8ed03a1aae3cc0581f",
+    "fileHash": "sha256-fb8a1d02536647541f14c011aa936b8aa3862b7ce1281d4f93fd38749b1b596f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 24611,
+    "fileSize": 33108,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -897,7 +897,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "KultFilmler",
     "description": "Seçkin kült film ve dizi arşivi (MRC)",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/KultFilmler.cs3",
