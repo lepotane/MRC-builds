@@ -31,76 +31,77 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 | Eklenti | İçerik | Sürüm | Durum |
 |---|---|---|---|
-| HDFilmCehennemi | Film + Dizi | v6 | Çalışıyor |
-| FilmMakinesi | Film + Dizi | v3 | Çalışıyor |
-| FullHDFilmizlesene | Film | v2 | Bakımda |
-| JetFilmizle | Film | v2 | Çalışıyor |
-| SinemaCX | Film | v3 | Çalışıyor |
-| FilmModu | Film | v2 | Çalışıyor |
-| KultFilmler | Film + Dizi | v2 | Çalışıyor |
-| RareFilmm | Film | v3 | Çalışıyor |
-| FullHDIzle | Film | v4 | Bakımda |
-| HDFilmDelisi | Film | v6 | Bakımda |
-| Sinezy | Film | v3 | Çalışıyor |
-| YesilCamTv | Film | v2 | Çalışıyor |
-| DiziWatch | Dizi | v3 | Bakımda |
-| Dizilla | Dizi | v2 | Bakımda |
-| DiziPal | Dizi | v3 | Çalışıyor |
-| DiziMag | Dizi | v2 | Bakımda |
-| DiziKorea | Kore Dizisi | v1 | Çalışıyor |
-| FilmEkseni | Film | v1 | Çalışıyor |
-| SelcukFlix | Film + Dizi | v4 | Çalışıyor |
-| SetFilmIzle | Film + Dizi | v2 | Bakımda |
-| TvDiziler | Dizi | v2 | Bakımda |
-| WebdramaTurkey2 | Web Drama | v2 | Bakımda |
-| Webteizle | Film | v2 | Bakımda |
-| YabanciDizi | Dizi | v2 | Bakımda |
-| DiziGom | Dizi | v3 | Bakımda |
-| DiziBox | Dizi | v5 | Çalışıyor |
-| DiziMom | Dizi | v1 | Çalışıyor |
-| DiziYou | Dizi | v6 | Çalışıyor |
-| DiziLife | Dizi | v1 | Çalışıyor |
-| DiziBal | Dizi | v1 | Çalışıyor |
-| DiziBol | Dizi | v1 | Çalışıyor |
-| DDizi | Yerli Dizi | v4 | Çalışıyor |
-| LoveFilm | Film + Dizi | v2 | Bakımda |
-| Sinefy | Film + Dizi | v1 | Çalışıyor |
-| DocumentaryArea | Belgesel | v1 | Çalışıyor |
-| DramaDizilerim | Dizi | v1 | Çalışıyor |
-| AnimeAV | Anime | v1 | Çalışıyor |
-| AnimeWorld | Anime | v1 | Çalışıyor |
-| AnimeYTX | Anime | v1 | Çalışıyor |
-| AnimeciX | Anime | v1 | Çalışıyor |
-| AsyaAnimeleri | Anime | v1 | Çalışıyor |
-| AsyaWatch | Asya Dizisi | v1 | Çalışıyor |
-| BelgeselX | Belgesel | v1 | Çalışıyor |
-| BirAsyaDizi | Asya Dizisi | v1 | Çalışıyor |
-| CizgiMax | Çizgi Film | v1 | Çalışıyor |
-| TRasyalog | Asya Dizisi | v3 | Çalışıyor |
-| TurkAnime | Anime | v1 | Çalışıyor |
-| Watch2Movies | Film | v1 | Çalışıyor |
-| Streamed | Canlı | v1 | Çalışıyor |
-| Supercartoons | Çizgi | v1 | Çalışıyor |
-| SineWix | Karma | v1 | Çalışıyor |
-| FilmIzyon | Film | v2 | Bakımda |
-| Filmzal | Film | v2 | Bakımda |
-| DiziPalOrijinal | Dizi | v4 | Çalışıyor |
-| DiziYo | Dizi | v5 | Çalışıyor |
-| YoTurkish | Yerli | v1 | Çalışıyor |
-| InatBoxBC | Film + Dizi + Canli | v1 | Çalışıyor |
-| Atv | Dizi + Canli | v2 | Bakımda |
-| CinemaCity | Film + Dizi + Cizgi | v1 | Bakımda |
-| DMax | Belgesel + Canli | v1 | Çalışıyor |
-| HdFilmCehennemi2 | Film | v2 | Bakımda |
-| KanalD | Dizi + Canli | v1 | Çalışıyor |
-| OpenAnime | Anime | v2 | Bakımda |
-| RecTVBC | Film + Canli + Dizi | v1 | Çalışıyor |
-| SezonlukDizi | Dizi | v2 | Bakımda |
-| Showtv | Dizi + Canli | v1 | Çalışıyor |
-| Startv | Dizi + Canli | v2 | Bakımda |
-| TLC | Dizi + Canli | v1 | Çalışıyor |
-| Tv8 | Dizi + Canli | v1 | Çalışıyor |
-| UltraFilmizle | Film + Asya Dizisi | v2 | Bakımda |
+| HDFilmCehennemi | Film + Dizi | v7 | Çalışıyor |
+| FilmMakinesi | Film + Dizi | v4 | Çalışıyor |
+| FullHDFilmizlesene | Film | v3 | Bakımda |
+| JetFilmizle | Film | v3 | Çalışıyor |
+| SinemaCX | Film | v6 | Çalışıyor |
+| FilmModu | Film | v3 | Çalışıyor |
+| KultFilmler | Film + Dizi | v4 | Bakımda |
+| RareFilmm | Film | v4 | Çalışıyor |
+| FullHDIzle | Film | v5 | Bakımda |
+| HDFilmDelisi | Film | v7 | Bakımda |
+| Sinezy | Film | v5 | Çalışıyor |
+| YesilCamTv | Film | v3 | Çalışıyor |
+| DiziWatch | Dizi | v4 | Bakımda |
+| Dizilla | Dizi | v3 | Bakımda |
+| DiziPal | Dizi | v5 | Çalışıyor |
+| DiziMag | Dizi | v3 | Bakımda |
+| DiziKorea | Kore Dizisi | v3 | Çalışıyor |
+| FilmEkseni | Film | v2 | Çalışıyor |
+| SelcukFlix | Film + Dizi | v6 | Çalışıyor |
+| SetFilmIzle | Film + Dizi | v3 | Bakımda |
+| TvDiziler | Dizi | v3 | Bakımda |
+| WebdramaTurkey2 | Web Drama | v3 | Bakımda |
+| Webteizle | Film | v3 | Bakımda |
+| YabanciDizi | Dizi | v3 | Bakımda |
+| DiziGom | Dizi | v4 | Bakımda |
+| DiziBox | Dizi | v6 | Çalışıyor |
+| DiziMom | Dizi | v2 | Çalışıyor |
+| DiziYou | Dizi | v8 | Çalışıyor |
+| DiziLife | Dizi | v2 | Çalışıyor |
+| DiziBal | Dizi | v2 | Çalışıyor |
+| DiziBol | Dizi | v2 | Çalışıyor |
+| DDizi | Yerli Dizi | v5 | Çalışıyor |
+| LoveFilm | Film + Dizi | v3 | Bakımda |
+| Sinefy | Film + Dizi | v3 | Çalışıyor |
+| DocumentaryArea | Belgesel | v2 | Çalışıyor |
+| DramaDizilerim | Dizi | v3 | Çalışıyor |
+| AnimeAV | Anime | v2 | Çalışıyor |
+| AnimeWorld | Anime | v2 | Çalışıyor |
+| AnimeYTX | Anime | v3 | Çalışıyor |
+| AnimeciX | Anime | v3 | Çalışıyor |
+| AsyaAnimeleri | Anime | v3 | Çalışıyor |
+| AsyaWatch | Asya Dizisi | v5 | Çalışıyor |
+| BelgeselX | Belgesel | v2 | Çalışıyor |
+| BirAsyaDizi | Asya Dizisi | v3 | Çalışıyor |
+| CizgiMax | Çizgi Film | v4 | Çalışıyor |
+| TRasyalog | Asya Dizisi | v4 | Çalışıyor |
+| TurkAnime | Anime | v3 | Çalışıyor |
+| Watch2Movies | Film | v2 | Çalışıyor |
+| Streamed | Canlı | v3 | Çalışıyor |
+| Supercartoons | Çizgi | v2 | Çalışıyor |
+| SineWix | Karma | v2 | Çalışıyor |
+| FilmIzyon | Film | v3 | Bakımda |
+| Filmzal | Film | v3 | Bakımda |
+| DiziPalOrijinal | Dizi | v8 | Çalışıyor |
+| DiziYo | Dizi | v8 | Çalışıyor |
+| YoTurkish | Yerli | v3 | Çalışıyor |
+| InatBoxBC | Film + Dizi + Canli | v2 | Çalışıyor |
+| Atv | Dizi + Canli | v3 | Bakımda |
+| CinemaCity | Film + Dizi + Cizgi | v2 | Bakımda |
+| DMax | Belgesel + Canli | v2 | Çalışıyor |
+| HdFilmCehennemi2 | Film | v3 | Bakımda |
+| KanalD | Dizi + Canli | v2 | Çalışıyor |
+| OpenAnime | Anime | v3 | Bakımda |
+| RecTVBC | Film + Canli + Dizi | v4 | Çalışıyor |
+| SezonlukDizi | Dizi | v3 | Bakımda |
+| Showtv | Dizi + Canli | v2 | Çalışıyor |
+| Startv | Dizi + Canli | v3 | Bakımda |
+| TLC | Dizi + Canli | v2 | Çalışıyor |
+| Tv8 | Dizi + Canli | v2 | Çalışıyor |
+| UltraFilmizle | Film + Asya Dizisi | v3 | Bakımda |
+| Anizium | Anime + Film | v1 | Çalışıyor |
 
 Liste büyüdükçe burası da güncellenir. Bazı eklentilerde yetişkin kategoriler de bulunur.
 

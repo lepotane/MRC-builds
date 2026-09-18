@@ -80,6 +80,27 @@
     "name": "AnimeYTX"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=anizium.co",
+    "fileHash": "sha256-934fa4b100a88810ed0d89e20d3f96699128771b712234bc434b9f6841b7d5fa",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 34579,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Anime",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "Anizium",
+    "description": "Anizium - Türkçe altyazılı ve dublajlı anime ile anime film arşivi.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/Anizium.cs3",
+    "name": "Anizium"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
     "fileHash": "sha256-6f949d0d01fa2bf36cf5b83b232f5b384e1b93a2ed855914e8db517e1bb5b2dd",
     "apiVersion": 1,
