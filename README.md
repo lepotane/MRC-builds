@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | WebdramaTurkey2 | Web Drama | v3 | Bakımda |
 | Webteizle | Film | v3 | Bakımda |
 | YabanciDizi | Dizi | v3 | Bakımda |
-| DiziGom | Dizi | v7 | Çalışıyor |
+| DiziGom | Dizi | v8 | Çalışıyor |
 | DiziBox | Dizi | v6 | Çalışıyor |
 | DiziMom | Dizi | v2 | Çalışıyor |
 | DiziYou | Dizi | v8 | Çalışıyor |
