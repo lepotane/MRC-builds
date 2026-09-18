@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | JetFilmizle | Film | v3 | Çalışıyor |
 | SinemaCX | Film | v6 | Çalışıyor |
 | FilmModu | Film | v3 | Çalışıyor |
-| KultFilmler | Film + Dizi | v4 | Bakımda |
+| KultFilmler | Film + Dizi | v5 | Çalışıyor |
 | RareFilmm | Film | v4 | Çalışıyor |
 | FullHDIzle | Film | v5 | Bakımda |
 | HDFilmDelisi | Film | v7 | Bakımda |
