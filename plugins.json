@@ -413,10 +413,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
-    "fileHash": "sha256-725dfc6a02627ea18bc91f20780e49fb50f22a4929415bd3bc72e59d2139e718",
+    "fileHash": "sha256-c80bd410072cadc8bcfd9792644b0b3234456f4c683fd6b1e1b67c695c765559",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 34512,
+    "fileSize": 42445,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -425,7 +425,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziMag.cs3",
