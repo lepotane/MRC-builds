@@ -989,10 +989,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
-    "fileHash": "sha256-f778ef1feb64252e9a74d8a3921b0f58630492fa52187698443eed894c0a026b",
+    "fileHash": "sha256-f05b876dac0e49207d681e10e97e8008aa2b147da91ef790398efe6e2e1f871f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 40834,
+    "fileSize": 40865,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1002,7 +1002,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "SetFilmIzle",
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/SetFilmIzle.cs3",
