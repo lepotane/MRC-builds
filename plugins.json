@@ -412,26 +412,6 @@
     "name": "Dizilla"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
-    "fileHash": "sha256-aebc2765cc7c9cb79bed81fa874b8e97c59f02ff528ac4e0ce34f05e47ba80a4",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 45748,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 6,
-    "internalName": "DiziMag",
-    "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/DiziMag.cs3",
-    "name": "DiziMag"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
     "fileHash": "sha256-b40527bf2bb3dcec972d9057b1586b696e77b362f38d1325f4ae2f76833347c1",
     "apiVersion": 1,
