@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | FilmEkseni | Film | v2 | Çalışıyor |
 | SelcukFlix | Film + Dizi | v6 | Çalışıyor |
 | SetFilmIzle | Film + Dizi | v6 | Çalışıyor |
-| TvDiziler | Dizi | v4 | Çalışıyor |
+| TvDiziler | Dizi | v5 | Çalışıyor |
 | WebdramaTurkey2 | Web Drama | v3 | Bakımda |
 | Webteizle | Film | v3 | Bakımda |
 | YabanciDizi | Dizi | v3 | Bakımda |

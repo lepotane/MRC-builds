@@ -1277,10 +1277,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%",
-    "fileHash": "sha256-31bbe2ea1bb6065d7d7e77ef83fcb32c0b39016fcead979fd915388ceedda40a",
+    "fileHash": "sha256-b5c6b320027461abd7ae5315624b6fdfc1dde2049de9bc9f7c1e0928b661c9fb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 36427,
+    "fileSize": 37515,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1289,7 +1289,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "TvDiziler",
     "description": "TvDiziler - Yerli diziler, Türkçe dublaj/altyazılı bölümler.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/test/TvDiziler.cs3",
