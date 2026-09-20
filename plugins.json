@@ -390,26 +390,6 @@
     "name": "Dizilla"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
-    "fileHash": "sha256-57d9a47f4624f9ff05debf186d21a25ae2bf5b63865fdcf15923c3a23df0b365",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48211,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "DiziMag",
-    "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziMag.cs3",
-    "name": "DiziMag"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
     "fileHash": "sha256-d568e535b069dc3c54de0ffbc82340455ea3081ce22326fdefcc9af6da84edb3",
     "apiVersion": 1,
@@ -676,27 +656,6 @@
     "name": "FilmModu"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmzal.me&sz=%size%",
-    "fileHash": "sha256-4009c022c0dd25ed2cb0c743a4b40de202f4cb14cbe4e4718e18597ee104fb39",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 22119,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "Filmzal",
-    "description": "Filmzal - Film ve dizi izleme.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Filmzal.cs3",
-    "name": "Filmzal"
-  },
-  {
     "iconUrl": "https://www.fullhdfilmizlesene.now/favicon.ico",
     "fileHash": "sha256-3545091d3c33823a85f8c3547a54206a80790a1813d123b328a8469af09b7009",
     "apiVersion": 1,
@@ -715,26 +674,6 @@
     "description": "FullHDFilmizlesene Turkce Film Saglayicisi",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDFilmizlesene.cs3",
     "name": "FullHDFilmizlesene"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdizle.one",
-    "fileHash": "sha256-25e9e3994bb817dd285077ce544454ecbc675ecd683ebf2bbf239c6c3df435b0",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18507,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "FullHDIzle",
-    "description": "Full HD film izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FullHDIzle.cs3",
-    "name": "FullHDIzle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
@@ -1357,27 +1296,6 @@
     "description": "WebdramaTurkey2 İçerikleri",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/WebdramaTurkey2.cs3",
     "name": "WebdramaTurkey2"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://webteizle3.xyz&sz=%size%",
-    "fileHash": "sha256-ce24bf1f34c02dcc23caadbb53167d414a1c5e55a5450e2afbdb7e478837bd31",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 29009,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "Webteizle",
-    "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Webteizle.cs3",
-    "name": "Webteizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%",
