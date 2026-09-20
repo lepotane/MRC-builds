@@ -40,77 +40,21 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 ---
 
-## 🧩 Eklenti Listesi
+## 🧩 Eklenti Listesi ve Güncel Durum
 
-> Bu tablo **her yayında otomatik güncellenir**; her gün ayrıca sağlık kontrolünden geçer.
+<!-- EKLENTI-LISTESI-SITEDE -->
 
-| Eklenti | İçerik | Sürüm | Durum |
-| AnimeAV | Anime | v2 | Çalışıyor |
-| AnimeWorld | Anime | v2 | Çalışıyor |
-| AnimeYTX | Anime | v3 | Çalışıyor |
-| AnimeciX | Anime | v3 | Çalışıyor |
-| Anizium | Anime + Film | v4 | Çalışıyor |
-| AsyaAnimeleri | Anime | v3 | Çalışıyor |
-| AsyaWatch | Film + Dizi | v6 | Çalışıyor |
-| Atv | Dizi + Canli | v6 | Çalışıyor |
-| BelgeselX | Belgesel | v2 | Çalışıyor |
-| BirAsyaDizi | Asya Dizisi | v3 | Çalışıyor |
-| CizgiMax | Cizgi + Anime + Film | v6 | Çalışıyor |
-| DDizi | Dizi | v5 | Çalışıyor |
-| DMax | Belgesel + Canli | v2 | Çalışıyor |
-| DiziBal | Film + Dizi + Anime | v3 | Çalışıyor |
-| DiziBol | Film + Dizi + Anime | v3 | Çalışıyor |
-| DiziBox | Film | v6 | Çalışıyor |
-| DiziGom | Dizi | v13 | Çalışıyor |
-| DiziKorea | Asya Dizisi | v4 | Çalışıyor |
-| DiziLife | Film + Dizi | v2 | Çalışıyor |
-| DiziMom | Film + Dizi | v3 | Çalışıyor |
-| DiziPal | Dizi + Film | v5 | Çalışıyor |
-| DiziPalOrijinal | Dizi | v9 | Çalışıyor |
-| DiziWatch | Dizi | v10 | Çalışıyor |
-| DiziYo | Film + Dizi | v8 | Çalışıyor |
-| DiziYou | Dizi | v8 | Çalışıyor |
-| Dizilla | Dizi | v9 | Çalışıyor |
-| DocumentaryArea | Belgesel | v2 | Çalışıyor |
-| DramaDizilerim | Dizi | v4 | Çalışıyor |
-| FilmEkseni | Film + Dizi | v3 | Çalışıyor |
-| FilmIzyon | Film | v6 | Çalışıyor |
-| FilmMakinesi | Film + Dizi | v4 | Çalışıyor |
-| FilmModu | Film | v4 | Çalışıyor |
-| FullHDFilmizlesene | Film | v6 | Çalışıyor |
-| HDFilmCehennemi | Film + Dizi | v7 | Çalışıyor |
-| HDFilmDelisi | Film + Dizi | v15 | Çalışıyor |
-| HdFilmCehennemi2 | Film | v5 | Çalışıyor |
-| InatBoxBC | Film + Dizi + Canli | v2 | Çalışıyor |
-| JetFilmizle | Film | v3 | Çalışıyor |
-| KanalD | Dizi + Canli | v2 | Çalışıyor |
-| KultFilmler | Film + Dizi | v6 | Çalışıyor |
-| LoveFilm | Film + Dizi | v6 | Çalışıyor |
-| OpenAnime | Anime | v13 | Çalışıyor |
-| RareFilmm | Film | v4 | Çalışıyor |
-| RecTVBC | Film + Canli + Dizi | v4 | Çalışıyor |
-| SelcukFlix | Film + Dizi | v7 | Çalışıyor |
-| SetFilmIzle | Film + Dizi | v6 | Çalışıyor |
-| SezonlukDizi | Dizi | v5 | Çalışıyor |
-| Showtv | Dizi + Canli | v2 | Çalışıyor |
-| SineWix | Film + Dizi + Anime | v2 | Çalışıyor |
-| Sinefy | Film + Dizi | v3 | Çalışıyor |
-| SinemaCX | Film | v6 | Çalışıyor |
-| Sinezy | Film | v5 | Çalışıyor |
-| Startv | Dizi | v4 | Çalışıyor |
-| Streamed | Canli | v3 | Çalışıyor |
-| Supercartoons | Cizgi | v2 | Çalışıyor |
-| TLC | Dizi + Canli | v2 | Çalışıyor |
-| TRasyalog | Dizi | v4 | Çalışıyor |
-| TurkAnime | Anime | v3 | Çalışıyor |
-| Tv8 | Dizi + Canli | v2 | Çalışıyor |
-| TvDiziler | Dizi | v6 | Çalışıyor |
-| UltraFilmizle | Film + Dizi | v12 | Çalışıyor |
-| Watch2Movies | Film + Dizi | v2 | Çalışıyor |
-| WebdramaTurkey2 | Asya Dizisi + Film + Anime | v4 | Çalışıyor |
-| YabanciDizi | Dizi | v17 | Çalışıyor |
-| YesilCamTv | Film | v3 | Çalışıyor |
-| YoTurkish | Dizi | v3 | Çalışıyor |
+Depodaki **66 eklentinin** tam listesini, sürümlerini ve **canlı çalışma durumunu** her zaman güncel olarak sitemizden görebilirsiniz:
+
+<div align="center">
+
+### 👉 [Eklentilerin Güncel Durumunu Görüntüle](https://lepotane.github.io/mrc-site/)
+
+[![Eklenti Listesi ve Durum](https://img.shields.io/badge/eklenti%20listesi%20%26%20durum-a%C3%A7-3ec9c4?style=for-the-badge)](https://lepotane.github.io/mrc-site/)
+
+<sub>Liste her yayında otomatik güncellenir; tüm eklentiler her gün sağlık kontrolünden geçer.</sub>
+
+</div>
 
 ---
 

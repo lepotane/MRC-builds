@@ -40,13 +40,21 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 ---
 
-## 🧩 Extension List
+## 🧩 Extension List & Live Status
 
-> This table is **updated automatically on every release** and health-checked daily.
+<!-- EKLENTI-LISTESI-SITEDE -->
 
-| Eklenti | İçerik | Sürüm | Durum |
+You can always see the full list of the **66 extensions**, their versions and their **live status** on our website:
 
-*(The table above keeps the Turkish column headers used by the app's repository format.)*
+<div align="center">
+
+### 👉 [View Current Extension Status](https://lepotane.github.io/mrc-site/)
+
+[![Extension List & Status](https://img.shields.io/badge/extension%20list%20%26%20status-open-3ec9c4?style=for-the-badge)](https://lepotane.github.io/mrc-site/)
+
+<sub>The list updates automatically on every release; all extensions are health-checked daily.</sub>
+
+</div>
 
 ---
 
