@@ -203,28 +203,6 @@
     "name": "BirAsyaDizi"
   },
   {
-    "iconUrl": "https://i.imgur.com/A87j6ue.png",
-    "fileHash": "sha256-b45366d82a27f3655119000beedd43bf6b700729394d857fa0cf81a7390bb1ab",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 45430,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Cartoon"
-    ],
-    "version": 1,
-    "internalName": "CinemaCity",
-    "description": "Cinema City - Film, dizi ve çizgi filmler.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/CinemaCity.cs3",
-    "name": "CinemaCity"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "fileHash": "sha256-feee584d14a0d2f9459bd4bdd3ca70824459a55de81af0577c80cdcedaf24d81",
     "apiVersion": 1,
