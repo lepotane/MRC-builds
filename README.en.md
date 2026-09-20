@@ -45,7 +45,6 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 > This table is **updated automatically on every release** and health-checked daily.
 
 | Eklenti | İçerik | Sürüm | Durum |
-|---|---|---|---|
 
 *(The table above keeps the Turkish column headers used by the app's repository format.)*
 

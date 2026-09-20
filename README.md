@@ -45,7 +45,6 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 > Bu tablo **her yayında otomatik güncellenir**; her gün ayrıca sağlık kontrolünden geçer.
 
 | Eklenti | İçerik | Sürüm | Durum |
-|---|---|---|---|
 | AnimeAV | Anime | v2 | Çalışıyor |
 | AnimeWorld | Anime | v2 | Çalışıyor |
 | AnimeYTX | Anime | v3 | Çalışıyor |
@@ -112,9 +111,6 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | YabanciDizi | Dizi | v17 | Çalışıyor |
 | YesilCamTv | Film | v3 | Çalışıyor |
 | YoTurkish | Dizi | v3 | Çalışıyor |
-<<<<<<< HEAD
-=======
->>>>>>> 1439c27 (README: logo, renkli duzen, TR/EN surumler ve detayli DMCA)
 
 ---
 
