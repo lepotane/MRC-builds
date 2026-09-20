@@ -3,6 +3,6 @@
   "description": "MRC Turkce eklenti deposu — Film, Dizi, Anime (CloudStream 4.8.0)",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/lepotane/MRC-builds/test/plugins.json"
+    "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/plugins.json"
   ]
 }
