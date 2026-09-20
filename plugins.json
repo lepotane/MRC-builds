@@ -1439,5 +1439,26 @@
     "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/YoTurkish.cs3",
     "name": "YoTurkish"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=anizium.co",
+    "fileHash": "sha256-5e00fc9d30e07c03f7c2ddb6d4f6232567e2e151332ff69f3041e547d4b74d55",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 17589,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Anime",
+      "Movie"
+    ],
+    "version": 4,
+    "internalName": "Anizium",
+    "description": "Anizium - Türkçe altyazılı ve dublajlı anime ile anime film arşivi.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Anizium.cs3",
+    "name": "Anizium"
   }
 ]
