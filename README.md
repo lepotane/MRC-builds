@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | SetFilmIzle | Film + Dizi | v6 | Çalışıyor |
 | TvDiziler | Dizi | v6 | Çalışıyor |
 | WebdramaTurkey2 | Web Drama | v4 | Çalışıyor |
-| Webteizle | Film | v3 | Bakımda |
 | YabanciDizi | Dizi | v17 | Çalışıyor |
 | DiziGom | Dizi | v13 | Çalışıyor |
 | DiziBox | Dizi | v6 | Çalışıyor |
@@ -81,13 +80,11 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | Supercartoons | Çizgi | v2 | Çalışıyor |
 | SineWix | Karma | v2 | Çalışıyor |
 | FilmIzyon | Film | v6 | Çalışıyor |
-| Filmzal | Film | v3 | Bakımda |
 | DiziPalOrijinal | Dizi | v9 | Çalışıyor |
 | DiziYo | Dizi | v8 | Çalışıyor |
 | YoTurkish | Yerli | v3 | Çalışıyor |
 | InatBoxBC | Film + Dizi + Canli | v2 | Çalışıyor |
 | Atv | Dizi + Canli | v6 | Çalışıyor |
-| CinemaCity | Film + Dizi + Cizgi | v2 | Bakımda |
 | DMax | Belgesel + Canli | v2 | Çalışıyor |
 | HdFilmCehennemi2 | Film | v5 | Çalışıyor |
 | KanalD | Dizi + Canli | v2 | Çalışıyor |
