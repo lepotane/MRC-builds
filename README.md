@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 | AsyaWatch | Asya Dizisi | v6 | Çalışıyor |
 | BelgeselX | Belgesel | v2 | Çalışıyor |
 | BirAsyaDizi | Asya Dizisi | v3 | Çalışıyor |
-| CizgiMax | Çizgi Film | v5 | Çalışıyor |
+| CizgiMax | Çizgi Film | v6 | Çalışıyor |
 | TRasyalog | Asya Dizisi | v4 | Çalışıyor |
 | TurkAnime | Anime | v3 | Çalışıyor |
 | Watch2Movies | Film | v2 | Çalışıyor |

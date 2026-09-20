@@ -204,10 +204,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
-    "fileHash": "sha256-27cf1cc425ec32cbe98d7f1ed1ebb347f725c903986fcc7a5329c8f783c62ec8",
+    "fileHash": "sha256-7d362c146c7b93f78519c88dac96e199e5cef27422454f0d192528a48ec9f190",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 43965,
+    "fileSize": 43969,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -218,7 +218,7 @@
       "Anime",
       "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "CizgiMax",
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/CizgiMax.cs3",
