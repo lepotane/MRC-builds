@@ -21,11 +21,10 @@
 
 ## ⚡ Kurulum (2 dakika)
 
-> 💡 **Öneri:** En iyi deneyim için CloudStream'in **pre-release (Beta)** sürümünü öneririz.
-> Kırmızı logolu **"CloudStream Beta"** olarak ayrı kurulur, stabil sürümle çakışmaz.
-> İndirme: <https://github.com/recloudstream/cloudstream/releases> → en üstteki **Pre-release Build** (`app-prerelease-release.apk`).
+> 📌 **Öneri:** Eklentileri en iyi deneyimle kullanmak için CloudStream'in **pre-release (ön sürüm / Beta)** build'ini öneriyoruz. Bu sürüm kırmızı logolu **"CloudStream Beta"** olarak ayrı bir uygulama halinde kurulur ve stabil sürümün yanında çalışabilir (ikisi birbirini etkilemez). Stabil 4.8.0'a göre daha yeni API'ler içerir: çoklu ses/dublaj ayrımı, arka plan görseli, yaş sınırı, sağlayıcı bazlı zaman aşımı, çok parçalı video desteği ve daha fazlası. Bazı eklentilerimiz bu yeni özellikleri kullanıyor; ön sürümde en sağlıklı çalışırlar.
+> **İndirme:** <https://github.com/recloudstream/cloudstream/releases> → en üstteki **Pre-release Build** (`app-prerelease-release.apk`).
 
-1. [CloudStream](https://github.com/recloudstream/cloudstream/releases) uygulamasını kurun (4.8.0 ve üzeri).
+1. **CloudStream uygulamasını kurun** (4.8.0 ve üzeri). En iyi sonuç için **Pre-release Build**.
 2. Uygulamada **Ayarlar → Eklentiler → Depo Ekle** bölümüne girin.
 3. `Depo ismi` kısmını boş bırakıp `Depo URL'si` kısmına şu adresi yapıştırın:
 
@@ -34,6 +33,10 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 ```
 
 4. Depo eklendikten sonra listeden istediğiniz eklentiyi kurun. **Güncellemeler otomatik gelir.**
+
+> **Not:** `!mrc-cs` kısa kodu hazır (`py.md/mrc-cs`) ama şu an **sadece beta sürümlerde** çalışıyor. Stabil sürüme gelince burası güncellenecek.
+>
+> **Alternatif kısa kod:** `mrc-cs` (Cutt.ly yerine TinyURL üzerinden) — **stabil sürümlerde de çalışır**: <https://tinyurl.com/mrc-cs>
 
 ---
 

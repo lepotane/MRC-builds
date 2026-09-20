@@ -21,11 +21,10 @@
 
 ## ⚡ Installation (2 minutes)
 
-> 💡 **Tip:** For the best experience use the CloudStream **pre-release (Beta)** build.
-> It installs as a separate app ("CloudStream Beta") and does not conflict with the stable version.
-> Download: <https://github.com/recloudstream/cloudstream/releases> → top **Pre-release Build** (`app-prerelease-release.apk`).
+> 📌 **Tip:** For the best experience we recommend the CloudStream **pre-release (Beta)** build. It installs as a separate app with a red logo ("CloudStream Beta") and can run alongside the stable version (they do not affect each other). It ships newer APIs than stable 4.8.0: multi-audio/dub separation, background artwork, age rating, per-provider timeouts, multi-part video support and more. Some of our extensions use these newer features and run best on the pre-release.
+> **Download:** <https://github.com/recloudstream/cloudstream/releases> → top **Pre-release Build** (`app-prerelease-release.apk`).
 
-1. Install [CloudStream](https://github.com/recloudstream/cloudstream/releases) (4.8.0 or newer).
+1. **Install CloudStream** (4.8.0 or newer). For best results use the **Pre-release Build**.
 2. In the app go to **Settings → Extensions → Add repository**.
 3. Leave `Repository name` empty and paste this into `Repository URL`:
 
@@ -34,6 +33,10 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 ```
 
 4. Install the extensions you want. **Updates arrive automatically.**
+
+> **Note:** the `!mrc-cs` short code is ready (`py.md/mrc-cs`) but currently works **only on beta builds**. This section will be updated when it reaches stable.
+>
+> **Alternative short code:** `mrc-cs` (via TinyURL instead of Cutt.ly) — **works on stable builds too**: <https://tinyurl.com/mrc-cs>
 
 ---
 
