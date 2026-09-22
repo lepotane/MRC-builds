@@ -246,11 +246,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
-    "fileHash": "sha256-f4fa73b0d3ff36bfcdd6f376f923896c32e6f64f33d81acee8380e12c89b6008",
+    "fileHash": "sha256-f6309e793eb214e678f031e6cab85a0777c63c3e8b5ca17865ca5e7cfb5e4c1c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33849,
-    "status": 0,
+    "fileSize": 16676,
+    "status": 1,
     "language": "tr",
     "authors": [
       "MRC"
@@ -260,7 +260,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziBal",
     "description": "En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBal.cs3",
@@ -268,11 +268,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
-    "fileHash": "sha256-db59f6c1f527b1c83ea5e3bec5c1c6d37a29d530bab0ca05d2055ce0b0fdc973",
+    "fileHash": "sha256-0a4b26029b092be45e185d78174111e0eff38cdd80993786d865cf3cc28c6bb2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33865,
-    "status": 0,
+    "fileSize": 16672,
+    "status": 1,
     "language": "tr",
     "authors": [
       "MRC"
@@ -282,7 +282,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziBol",
     "description": "En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBol.cs3",
