@@ -310,11 +310,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
-    "fileHash": "sha256-1405abe2f5950af8e0ec542871aec9fa067918b8029ddac28459f7a586f0ce1a",
+    "fileHash": "sha256-f3d0229d45c806b3f37750e3ad7871ea8ddb26dbfe94af4ebf0e46f5ef0dc4d1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 37483,
-    "status": 1,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -322,7 +322,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "DiziGom",
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziGom.cs3",
@@ -473,11 +473,11 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
-    "fileHash": "sha256-6224d1345bb71461307b95670e854dd9a9badddafdab70ceedc967619dace6b7",
+    "fileHash": "sha256-f802f217954bedcd9902a34e7e93a0086bf01bd68fd1387e8a198e6e2f548a5e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 48025,
-    "status": 1,
+    "status": 0,
     "language": "tr",
     "authors": [
       "MRC"
@@ -486,7 +486,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "DiziYo",
     "description": "Yeni film, dizi, anime bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziYo.cs3",
@@ -616,10 +616,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmakinesi.to",
-    "fileHash": "sha256-65b15a5a27a18b989f79f5e2f08751bac6b52af5687785de45ef75fc94e1c8fb",
+    "fileHash": "sha256-038b82bfabdaa61c619045342eded14e0a127d8926c90759593da79c669445bd",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 23552,
+    "fileSize": 26143,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -629,7 +629,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "FilmMakinesi",
     "description": "En iyi 1080p Full HD film sitesi (MRC)",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmMakinesi.cs3",
@@ -677,10 +677,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
-    "fileHash": "sha256-1fad3dffd8e0839b69c9272282f2a9907bad629a7feb4b3c8511b4b073087b87",
+    "fileHash": "sha256-9678ffac35550a94e2e4f5b7479aa41b533b615020aa760f6a14e331af5518e3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 31292,
+    "fileSize": 33816,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -690,7 +690,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "HDFilmCehennemi",
     "description": "Türkiye'nin en hızlı HD film izleme sitesi (MRC)",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/HDFilmCehennemi.cs3",
@@ -884,10 +884,10 @@
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
-    "fileHash": "sha256-9af322cc99b9bb33d1446405c87d512e7f820a81a4bad761a6ce5d77a214f49d",
+    "fileHash": "sha256-9e108791115511dcde8621c2dfd1bd28aeeab32fb50b192c72b55bc0933a01d3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 44195,
+    "fileSize": 44203,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -898,7 +898,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "RecTVBC",
     "description": "RecTV BC - Canlı kanallar, spor yayınları, film ve diziler.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RecTVBC.cs3",
