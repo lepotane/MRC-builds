@@ -371,10 +371,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
-    "fileHash": "sha256-74faea37332d1680ad7d911aa86d2b49abf0a2ea212c400c9a0e78a909554a77",
+    "fileHash": "sha256-9cabfa0e5d2cb0ff86a34c6cdcd8d5d71aa9dcaf20b3d02d6ae942c268d6773b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48803,
+    "fileSize": 50112,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -383,7 +383,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Dizilla.cs3",
