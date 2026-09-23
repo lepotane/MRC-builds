@@ -290,10 +290,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
-    "fileHash": "sha256-fdc3ebb3b3350cd1c880021eecd64d0a063df1af4e167b5eb4494a3ce668a332",
+    "fileHash": "sha256-e37f20166b149ac0ee96d09efebbdd60a309a449df53303bfc9ad682acb602f9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26118,
+    "fileSize": 26002,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -302,7 +302,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "DiziBox",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBox.cs3",
