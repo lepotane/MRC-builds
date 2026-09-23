@@ -290,10 +290,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
-    "fileHash": "sha256-d7be02c7adfb6f1bcdc186259cc883dedd43c5644d0f5747ea30a189d0ec2aef",
+    "fileHash": "sha256-fdc3ebb3b3350cd1c880021eecd64d0a063df1af4e167b5eb4494a3ce668a332",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26156,
+    "fileSize": 26118,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -302,7 +302,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "DiziBox",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziBox.cs3",
@@ -391,7 +391,7 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
-    "fileHash": "sha256-ce6214258703d0f029434b53d863b78ef139a35d20d9b4dfd1c3f1e543717aba",
+    "fileHash": "sha256-a247f2ba96744c98d80c6b8eef7ef1625c2f95fee0b3973d162f9967fb13551e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 27023,
@@ -404,7 +404,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DiziMom",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziMom.cs3",
@@ -1233,11 +1233,11 @@
     "name": "TvDiziler"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ultrafilmizle.org/&size=128",
-    "fileHash": "sha256-bd833a06c302c96cb6749a11b0bb706314101a82bbfca22dbd606b8ca1420b9a",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ufilmizle.com/&size=128",
+    "fileHash": "sha256-c334a8f8d37c2aea70c1a6890b42ca0fd7455a2a7c5a26a3450e84487d27dbfb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 30879,
+    "fileSize": 30881,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1247,7 +1247,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "UltraFilmizle",
     "description": "UltraFilmizle - 1080p ve 4K yerli/yabancı film izleme.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/UltraFilmizle.cs3",
