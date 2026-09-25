@@ -411,11 +411,11 @@
     "name": "DiziMom"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2132.com&sz=%size%",
-    "fileHash": "sha256-9bcaac4bef885ec03f43ce70e48e7e148bcf1356355cf6722db1c1a18cb49835",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2134.com&sz=%size%",
+    "fileHash": "sha256-919f40fd2bdaeb3e96ad873621bebf77726b553dce56c3fc7dc5fbded5a0e803",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 28508,
+    "fileSize": 28507,
     "status": 0,
     "language": "tr",
     "authors": [
@@ -425,7 +425,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "DiziPal",
     "description": "DiziPal - Güncel domain ile yabancı dizi ve filmleri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziPal.cs3",
