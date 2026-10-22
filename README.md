@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json
 
 <!-- EKLENTI-LISTESI-SITEDE -->
 
-Depodaki **72 eklentinin** tam listesini, sürümlerini ve **canlı çalışma durumunu** her zaman güncel olarak sitemizden görebilirsiniz:
+Depodaki **73 eklentinin** tam listesini, sürümlerini ve **canlı çalışma durumunu** her zaman güncel olarak sitemizden görebilirsiniz:
 
 <div align="center">
 
